@@ -23,7 +23,7 @@
     
     <title>Contact Me</title>
 </head>
-<body>
+<body class="custom-background-primary">
     <!-- Navbar -->
     <nav class="navbar fixed-top navbar-expand-md border-bottom" style="background-color: #292929;" data-bs-theme="dark">
         <div class="container-fluid">
@@ -64,5 +64,39 @@
             </div>
         </div>
     </nav>
+    <!-- Page Container -->
+    <div id="contact_page" class="container-page">
+        <!-- Intro Section -->
+        <div class="center-side-margin" align="center">
+            <h1 style="margin-bottom: 50px;">Contact Me</h1>
+            <p class="paragraph-heading">Need to get in touch?</p>
+            <p>Fill out the form below!</p>
+        </div>
+    </div>
+    <!-- Contact Me Form -->
+    <div style="margin: 100px 35% 0px 35%;">
+        <form method="POST" action="https://postman-echo.com/post">
+            <div class=" form-row row">
+                <div class="col-lg-6 col-md-12 mb-2 p-2">
+                    <input name="firstName" id="firstName" type="text" class="form-control" placeholder="First Name" aria-label="First Name">
+                </div>
+                <div class="col-lg-6 col-md-12 mb-2 p-2">
+                    <input name="lastName" id="lastName" type="text" class="form-control" placeholder="Last Name" aria-label="Last Name">
+                </div>
+                <div class="col-lg-6 col-md-12 mb-2 p-2">
+                    <input name="email" id="email" type="text" class="form-control" placeholder="Email" aria-label="email">
+                </div>
+                <div class="col-lg-6 col-md-12 mb-2 p-2">
+                    <input name="occupation" id="occupation" type="text" class="form-control" placeholder="Occupation" aria-label="First Name">
+                </div>
+                <div class="col-12 mb-2 p-2">
+                    <textarea class="form-control" name="message" id="message" rows="5" placeholder="Leave Your Message Here"></textarea>
+                </div>
+                <div class="col-12 mb-2 p-2">
+                    <button type="submit" class="btn btn-success mb-2 p-2" style="width: 100%;">Send Message</button>
+                </div>
+            </div>
+        </form>
+    </div>
 </body>
 </html>
