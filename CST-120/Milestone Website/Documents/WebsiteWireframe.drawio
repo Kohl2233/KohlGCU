@@ -1,0 +1,262 @@
+<mxfile host="app.diagrams.net" modified="2023-06-27T16:18:49.424Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="11wXx1cF45AOuU-iOhig" version="21.5.0" type="device">
+  <diagram name="WebsiteDesignWireframe" id="510aCwTR6cfwQY0MAlZ4">
+    <mxGraphModel dx="1434" dy="2396" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-1" value="Home Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="365" y="10" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JzrJOFQu4B8ua3CG2KTd-2" target="JzrJOFQu4B8ua3CG2KTd-53" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#171717;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="440" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-5" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="200" y="40" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-7" value="Things to Share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="375" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-8" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="275" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-9" value="Announcements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="485" y="40" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-10" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#d4af37&quot;&gt;Welcome!&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;My name is Kohlton (Kohl) Johnson. I&#39;m a Software Development major at Grand Canyon University.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="320" y="95" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-25" value="" style="whiteSpace=wrap;html=1;fillColor=#171717;imageAspect=1;expand=1;resizeHeight=1;resizable=1;fixedWidth=1;recursiveResize=0;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="-285" width="440" height="1090" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-26" value="Hobbies Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2235" y="-315" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-28" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#d4af37&quot;&gt;Hobbies&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;When it comes to things I like doing for fun, I&#39;m down for anything. Skiing, fishing, hunting, art, skateboarding, I like it all. The activities below are ones I do regularly and take priority over almost anything else.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2185" y="-230" width="210" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-29" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2070" y="-285" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-30" value="Things to Share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2245" y="-285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-31" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="2145" y="-285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-32" value="Announcements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2355" y="-285" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-33" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2274" y="15" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-34" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2174" y="15" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2174" y="180" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2350" y="180" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-38" value="&lt;h2&gt;Astronomy&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D4AF37;" parent="1" vertex="1">
+          <mxGeometry x="2165" y="-25" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-39" value="&lt;h2&gt;Game Development&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D4AF37;" parent="1" vertex="1">
+          <mxGeometry x="2170" y="145" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-43" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2276.5" y="355" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2176.5" y="355" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-45" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2176.5" y="520" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-46" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2352.5" y="520" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-47" value="&lt;h2&gt;Pixel Art&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D4AF37;" parent="1" vertex="1">
+          <mxGeometry x="2167.5" y="315" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-48" value="&lt;h2&gt;Outdoors&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D4AF37;" parent="1" vertex="1">
+          <mxGeometry x="2172.5" y="485" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-49" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2276.5" y="685" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-50" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="2176.5" y="685" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-51" value="&lt;h2&gt;Gaming&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#D4AF37;" parent="1" vertex="1">
+          <mxGeometry x="2167.5" y="645" width="260" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-52" value="About Me Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="925" y="-230" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JzrJOFQu4B8ua3CG2KTd-53" target="JzrJOFQu4B8ua3CG2KTd-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-53" value="" style="whiteSpace=wrap;html=1;fillColor=#171717;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-200" width="440" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-54" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="760" y="-200" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-55" value="Things to Share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="935" y="-200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-56" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="835" y="-200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-57" value="Announcements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="-200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-58" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#d4af37&quot;&gt;Background&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Below are some links to my hobbies/interest, contact information, and a little snippet on my beliefs!&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="-145" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="JzrJOFQu4B8ua3CG2KTd-59" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="858.5" y="50" width="246" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-1" value="GIF Image&lt;br&gt;(use url)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2184" y="45" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-2" value="GIF Image&lt;br&gt;(use url)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2360" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-3" value="GIF Image&lt;br&gt;(use url)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2186.5" y="385" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-4" value="GIF Image&lt;br&gt;(use url)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2362.5" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-5" value="GIF Image&lt;br&gt;(use url)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="2186.5" y="715" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="310" y="230" width="242" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="310" y="340" width="156" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="486" y="340" width="66" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-10" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="321" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-11" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="321" y="400" width="43" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="494" y="400" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-13" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="491" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-14" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="406" y="290" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-15" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="396" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-16" value="Important Events" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="313" y="340" width="153" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-17" value="Other" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="464" y="340" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-18" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="409" y="400" width="47" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="855.5" y="420" width="246" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-21" value="&lt;h3&gt;&lt;font color=&quot;#d4af37&quot;&gt;History&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;I am originally from Nebraska, born in Columbus and raised in Grand Island. In June of 2021 I moved up to Idaho to be closer to family, who moved there a year prior. Before then, I studied at the University of Nebraska - Lincoln, looking to pursue a B.S. in mechanical engineering. While engineering is an exciting field, I found that after taking a few programming courses I had an even greater interest in computers, more specifically, software. After the move, I transferred to Idaho State University with a focus on computer science. The program was great, but it lacked the coverage of more practical applications, instead focusing on&amp;nbsp; the theoretical aspect of things. With that in mind, I found Grand Canyon University&#39;s software development program and transferred in Spring of 2023.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;font color=&quot;#d4af37&quot;&gt;Future Plans&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;With a degree in software development, I plan to continue working for the family business&#39; managing/creating their websites and specific programs they need. My mom is a womans health and fitness coach and my dad owns Ice Dam Shield; a company that installs ice melt systems on roofs. As far as academics go, I will definitely pursue a masters degree. A professional doctorate would be really cool, but I can not find programs specifically for software development, only software engineering which has some pretty steep prerequisites.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="868.5" y="60" width="230" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="875" y="-25" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-26" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="-25" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-27" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="-25" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-28" value="Announcements Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="925" y="810" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-29" value="" style="whiteSpace=wrap;html=1;fillColor=#171717;" parent="1" vertex="1">
+          <mxGeometry x="760" y="840" width="440" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-30" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="760" y="840" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-31" value="Things to Share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="935" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-32" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="835" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-33" value="Announcements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="840" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-34" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#d4af37&quot;&gt;About Me&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Below are some links to my hobbies/interest, contact information, and a little snippet on my beliefs!&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="880" y="895" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-35" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="858.5" y="1090" width="246" height="360" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-36" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="855.5" y="1460" width="246" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-37" value="&lt;h3&gt;&lt;font color=&quot;#d4af37&quot;&gt;History&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;I am originally from Nebraska, born in Columbus and raised in Grand Island. In June of 2021 I moved up to Idaho to be closer to family, who moved there a year prior. Before then, I studied at the University of Nebraska - Lincoln, looking to pursue a B.S. in mechanical engineering. While engineering is an exciting field, I found that after taking a few programming courses I had an even greater interest in computers, more specifically, software. After the move, I transferred to Idaho State University with a focus on computer science. The program was great, but it lacked the coverage of more practical applications, instead focusing on&amp;nbsp; the theoretical aspect of things. With that in mind, I found Grand Canyon University&#39;s software development program and transferred in Spring of 2023.&amp;nbsp;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;h3&gt;&lt;font color=&quot;#d4af37&quot;&gt;Future Plans&lt;/font&gt;&lt;/h3&gt;&lt;p&gt;With a degree in software development, I plan to continue working for the family business&#39; managing/creating their websites and specific programs they need. My mom is a womans health and fitness coach and my dad owns Ice Dam Shield; a company that installs ice melt systems on roofs. As far as academics go, I will definitely pursue a masters degree. A professional doctorate would be really cool, but I can not find programs specifically for software development, only software engineering which has some pretty steep prerequisites.&amp;nbsp;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="868.5" y="1100" width="230" height="610" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-38" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="875" y="1015" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-39" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="1045" y="1015" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-40" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="960" y="1015" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-41" value="Things to Share Page" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="926.5" y="-1280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-42" value="" style="whiteSpace=wrap;html=1;fillColor=#171717;" parent="1" vertex="1">
+          <mxGeometry x="761.5" y="-1240" width="440" height="920" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#292929;" parent="1" vertex="1">
+          <mxGeometry x="761.5" y="-1240" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-44" value="Things to Share" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="936.5" y="-1240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-45" value="About Me" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;" parent="1" vertex="1">
+          <mxGeometry x="836.5" y="-1240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-46" value="Announcements" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="1046.5" y="-1240" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-47" value="&lt;h1 style=&quot;text-align: center;&quot;&gt;&lt;font color=&quot;#d4af37&quot;&gt;Things to Share&lt;/font&gt;&lt;/h1&gt;&lt;p style=&quot;text-align: center;&quot;&gt;Check out the meme library and photo collection for some quick laughs and/or some scenic views.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="881.5" y="-1185" width="210" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-51" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="936.5" y="-1065" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-52" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillWeight=4;hachureGap=8;hachureAngle=45;fillColor=#1ba1e2;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="996.5" y="-1065" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2Uebgh1moqTdtuHqgNuJ-55" value="&lt;h3&gt;&lt;font color=&quot;#d4af37&quot;&gt;Notable Places&lt;/font&gt;&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="934.75" y="-960" width="103.5" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

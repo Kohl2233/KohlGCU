@@ -1,0 +1,52 @@
+<mxfile host="app.diagrams.net" modified="2023-07-05T13:49:20.262Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nbibom7GRxkx04PWcWUu" version="21.5.2" type="device">
+  <diagram name="Page-1" id="c_1k1iS_yG1CzPU-gJE9">
+    <mxGraphModel dx="393" dy="655" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.446;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="YF39jl7i_uNRHhmOtu5Z-1" target="YF39jl7i_uNRHhmOtu5Z-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;" edge="1" parent="1" source="YF39jl7i_uNRHhmOtu5Z-1" target="YF39jl7i_uNRHhmOtu5Z-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-1" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
+          <mxGeometry x="80" y="300" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.939;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#d80073;strokeColor=#A50040;" edge="1" parent="1" source="YF39jl7i_uNRHhmOtu5Z-2" target="YF39jl7i_uNRHhmOtu5Z-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-2" value="" style="image;html=1;image=img/lib/clip_art/computers/Server_Rack_128x128.png" vertex="1" parent="1">
+          <mxGeometry x="310" y="220" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="YF39jl7i_uNRHhmOtu5Z-3" target="YF39jl7i_uNRHhmOtu5Z-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-3" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;spacingTop=3;image=img/lib/active_directory/database_server.svg;" vertex="1" parent="1">
+          <mxGeometry x="329.5" y="361.8" width="41" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-4" value="Computer" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65.6" y="361.8" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-5" value="ABC Company Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="430" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-6" value="DNS Server" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-9" value="Request for IP address of abccompany.com&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="170" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-10" value="Response with IP address" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="80" y="230" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-13" value="Request homepage of abc" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125.6" y="300" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="YF39jl7i_uNRHhmOtu5Z-14" value="Response with homepage" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="391.8" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
