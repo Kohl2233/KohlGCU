@@ -74,23 +74,24 @@
         </div>
     </div>
     <!-- Contact Me Form -->
-    <div style="margin: 100px 35% 0px 35%;">
-        <form method="POST" action="https://postman-echo.com/post">
-            <div class=" form-row row">
+    <button id="contact_me_button" class="btn btn-success" style="display: block; margin-left: auto; margin-right: auto; margin-top: 100px;">Send me a Message</button>
+    <div style="margin: 50px 35% 0px 35%;">
+        <form id="contact_me_form" action="">
+            <div class="form-row row">
                 <div class="col-lg-6 col-md-12 mb-2 p-2">
-                    <input name="firstName" id="firstName" type="text" class="form-control" placeholder="First Name" aria-label="First Name">
+                    <input id="firstName" type="text" class="form-control" placeholder="First Name" aria-label="First Name">
                 </div>
                 <div class="col-lg-6 col-md-12 mb-2 p-2">
-                    <input name="lastName" id="lastName" type="text" class="form-control" placeholder="Last Name" aria-label="Last Name">
+                    <input id="lastName" type="text" class="form-control" placeholder="Last Name" aria-label="Last Name">
                 </div>
                 <div class="col-lg-6 col-md-12 mb-2 p-2">
-                    <input name="email" id="email" type="text" class="form-control" placeholder="Email" aria-label="email">
+                    <input id="email" type="text" class="form-control" placeholder="Email" aria-label="email">
                 </div>
                 <div class="col-lg-6 col-md-12 mb-2 p-2">
-                    <input name="reason" id="reason" type="text" class="form-control" placeholder="Reason For Contact" aria-label="First Name">
+                    <input id="reason" type="text" class="form-control" placeholder="Reason For Contact" aria-label="First Name">
                 </div>
                 <div class="col-12 mb-2 p-2">
-                    <textarea class="form-control" name="message" id="message" rows="5" placeholder="Leave Your Message Here"></textarea>
+                    <textarea class="form-control" id="message" rows="5" placeholder="Leave Your Message Here"></textarea>
                 </div>
                 <div class="col-12 mb-2 p-2">
                     <button type="submit" class="btn btn-success mb-2 p-2" style="width: 100%;">Send Message</button>
@@ -98,5 +99,42 @@
             </div>
         </form>
     </div>
+    <script>
+        /* Toggle Contact Me Form */
+        $(document).ready(function(){
+            $("#contact_me_form").hide(); // start the page with the form hidden
+            $("#contact_me_button").click(function(){ // if toggle button is clicked
+                $("#contact_me_form").toggle(); // show the contact me form
+                $("#contact_me_button").toggle(); // hide the button
+            });
+        });
+
+        let contactForm = document.getElementById("contact_me_form"); // get the form element
+
+        contactForm.addEventListener("submit", (e) => {
+            e.preventDefault();
+
+            let firstName = document.getElementById("firstName"); // get first name value
+            let lastName = document.getElementById("lastName"); // get last name value
+            let email = document.getElementById("email"); // get the email value
+            let contactReason = document.getElementById("reason"); // get the reason for contact value
+            let message = document.getElementById("message"); // get the message value
+
+            // Check if all fields have values
+            if (firstName.value == "" || lastName.value == "" || email.value == "" || contactReason.value == "" || message.value == ""){
+                alert("My dude... you gotta fill out the ENTIRE form. -___-");
+            } else {
+                alert("Thank you for completing the form! Check the console in dev tools for your details after you clear this alert!");
+                console.log(`First Name: ${firstName.value}\nLast Name: ${lastName.value}\nEmail: ${email.value}\nContact Reason: ${contactReason.value}\nMessage : ${message.value}`);
+                
+                // Reset Form Values post submission
+                firstName.value = "";
+                lastName.value = "";
+                email.value = "";
+                contactReason.value = "";
+                message.value = "";
+            };
+        });
+    </script>
 </body>
 </html>

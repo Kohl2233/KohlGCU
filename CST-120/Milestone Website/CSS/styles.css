@@ -37,6 +37,15 @@
     border-radius: 2.5%;
 }
 
+.table-header {
+    color: #D4AF37;
+    text-align: center;
+}
+
+.table-data {
+    color: #E1D9D1;
+}
+
 /* Element Specific Styles */
 h1 {
     font-size: 60px;
@@ -60,4 +69,34 @@ p {
     font-size: 24px;
     font-family: 'Hind Vadodara', sans-serif;
     color: #E1D9D1 ;
+}
+
+/* Class' with Transitions */
+.color-transition {
+    transition: background-color 2s ease-out 100ms;
+}
+
+.color-transition:hover {
+    background-color: #292929;
+}
+/* Class' with Animations */
+.easter-egg-image {
+    width: 200px;
+    height: 200px;
+    opacity: 0%;
+}
+.easter-egg-image:hover {
+    animation-name: easterEgg;
+    animation-duration: 2s; 
+    animation-iteration-count: infinite;
+    animation-timing-function: ease;
+}
+
+/* Animations */
+@keyframes easterEgg {
+    0% { opacity: 0%; }
+    25% { opacity: 25%; }
+    50% { opacity: 50%; }
+    75% { opacity: 75%; }
+    100% { opacity: 100%; }
 }
