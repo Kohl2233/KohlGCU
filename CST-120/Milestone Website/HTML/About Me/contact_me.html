@@ -103,12 +103,12 @@
         /* Toggle Contact Me Form */
         $(document).ready(function(){
             $("#contact_me_form").hide(); // start the page with the form hidden
-            $("#contact_me_button").click(function(){ // if toggle button is clicked
+            $("#contact_me_button").click(function(){ // if toggle button is clicked do the below stuff lol
                 $("#contact_me_form").toggle(); // show the contact me form
                 $("#contact_me_button").toggle(); // hide the button
             });
         });
-
+ 
         let contactForm = document.getElementById("contact_me_form"); // get the form element
 
         contactForm.addEventListener("submit", (e) => {
@@ -133,6 +133,10 @@
                 email.value = "";
                 contactReason.value = "";
                 message.value = "";
+
+                // Hide the Contact Form and Show button again
+                $("#contact_me_form").toggle(); // toggle contact me form
+                $("#contact_me_button").toggle(); // toggle the contact me button
             };
         });
     </script>
