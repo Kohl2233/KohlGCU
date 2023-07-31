@@ -1,0 +1,67 @@
+<mxfile host="app.diagrams.net" modified="2023-07-31T02:49:06.588Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="d26jzbY_pfao_5ydJqY_" version="21.6.1" type="device">
+  <diagram name="Page-1" id="Yror5gYDEJmuJotw-9U9">
+    <mxGraphModel dx="326" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-2" value="Start" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m3MS_BSLWOJ6c1TQ6JVk-3" target="m3MS_BSLWOJ6c1TQ6JVk-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="220" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-4" value="Prompt user for Fahrenheit Temp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="232.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m3MS_BSLWOJ6c1TQ6JVk-5" target="m3MS_BSLWOJ6c1TQ6JVk-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-6" value="Convert to Degrees Celsius" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="332.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m3MS_BSLWOJ6c1TQ6JVk-7" target="m3MS_BSLWOJ6c1TQ6JVk-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="520" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-8" value="Prompt user for Celsius Temp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="532.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m3MS_BSLWOJ6c1TQ6JVk-9" target="m3MS_BSLWOJ6c1TQ6JVk-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="620" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-10" value="Convert to Degrees Fahrenheit" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="632.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-12" value="Output F Temp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="732.5" width="80" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="m3MS_BSLWOJ6c1TQ6JVk-13" target="m3MS_BSLWOJ6c1TQ6JVk-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m3MS_BSLWOJ6c1TQ6JVk-14" value="Output C Temp" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="432.5" width="80" height="35" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
