@@ -1,0 +1,22 @@
+<mxfile host="app.diagrams.net" modified="2023-09-09T20:40:43.528Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="FlLOkORlpEdknAjWmKl9" version="21.7.3" type="device">
+  <diagram name="Page-1" id="8QGtM-BinpmFT-zwZ924">
+    <mxGraphModel dx="683" dy="376" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2QoEylqxemmatEoxRw4G-1" value="Die" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="200" y="160" width="230" height="250" as="geometry" />
+        </mxCell>
+        <mxCell id="2QoEylqxemmatEoxRw4G-2" value="+ int faceValue = 1; // value of top facing side, start at 1&lt;br&gt;+ int numSides&amp;nbsp;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="2QoEylqxemmatEoxRw4G-1" vertex="1">
+          <mxGeometry y="26" width="230" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="2QoEylqxemmatEoxRw4G-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="2QoEylqxemmatEoxRw4G-1" vertex="1">
+          <mxGeometry y="80" width="230" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="2QoEylqxemmatEoxRw4G-4" value="+ Die (int faceValue, int numSides) // constructor&lt;br&gt;&lt;br&gt;+ int getNumSides()&lt;br&gt;+ int getFaceValue()&lt;br&gt;&lt;br&gt;+ void setNumSides(int numSides)&lt;br&gt;+ void setFaceValue (int faceValue)&lt;br&gt;&lt;br&gt;+ void rollDie() // will call setFaceValue" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="2QoEylqxemmatEoxRw4G-1" vertex="1">
+          <mxGeometry y="88" width="230" height="162" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
