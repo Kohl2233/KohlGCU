@@ -1,0 +1,102 @@
+<mxfile host="app.diagrams.net" modified="2023-09-11T01:44:15.960Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Qro62KLHwF8bUYthbN8z" version="21.7.4" type="device">
+  <diagram name="Page-1" id="lcWZcj6KDM0-dl4hAlhy">
+    <mxGraphModel dx="810" dy="2400" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-1" value="SalableProduct" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-40" width="160" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-2" value="+ private String name;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ private String type;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ private int quantity;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;+ private double price;&lt;br&gt;+ private String description;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-1">
+          <mxGeometry y="26" width="160" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-1">
+          <mxGeometry y="110" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-4" value="+ SalableProduct (String name, String type, int quantity, String status,&amp;nbsp; double price, String description)&lt;br&gt;&lt;br&gt;+ public void setName(String name)&lt;br&gt;+ public void setType(String type)&lt;br&gt;+ public void setQuantity(int quantity)&lt;br&gt;+ public void setPrice(double price)&lt;br&gt;+ public void setDescription(String description)&lt;br&gt;&lt;br&gt;+ public String getName()&lt;br&gt;+ public String getType()&lt;br&gt;+ public int getQuantity()&lt;br&gt;+ public double getPrice()&lt;br&gt;+ public String getDescription()&lt;br&gt;&lt;br&gt;+ public void displayDetails()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-1">
+          <mxGeometry y="118" width="160" height="402" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.34;entryY=0.999;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MryCxwJ2JtJVVyy8R8ik-5" target="MryCxwJ2JtJVVyy8R8ik-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="520" />
+              <mxPoint x="514" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-5" value="Armor" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="355" y="550" width="160" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-6" value="+ private int durability;&lt;br&gt;+ private String material;&lt;br&gt;+ private int rating;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-5">
+          <mxGeometry y="26" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-5">
+          <mxGeometry y="140" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-8" value="+ Armor (String name, String type, int quantity, String status,&lt;br&gt;&amp;nbsp;double price, String description, int durability, String material, int rating)&lt;br&gt;&lt;br&gt;+ public void setDurability(int durability)&lt;br&gt;+ public void setMaterial(String material)&lt;br&gt;+ public void setRating(int rating)&lt;br&gt;&lt;br&gt;+ public int getDurability()&lt;br&gt;+ public String getMaterial()&lt;br&gt;+ public int getRating()&lt;br&gt;&lt;br&gt;+ public void displayStats()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-5">
+          <mxGeometry y="148" width="160" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.14;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MryCxwJ2JtJVVyy8R8ik-9" target="MryCxwJ2JtJVVyy8R8ik-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="510" />
+              <mxPoint x="482" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-9" value="Weapon" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="550" width="160" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-10" value="+ private int damage;&lt;br&gt;+ private int durability;&lt;br&gt;+ private String material;&lt;br&gt;+ private int rating;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-9">
+          <mxGeometry y="26" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-9">
+          <mxGeometry y="140" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-12" value="+ Weapon (String name, String type, int quantity, String status,&amp;nbsp;&lt;br&gt;&amp;nbsp;double price, String description, int damage, int durability, String material, int rating)&lt;br&gt;&lt;br&gt;+ public void setDamage( int damage)&lt;br&gt;+ public void setDurability(int durability)&lt;br&gt;+ public void setMaterial(String material)&lt;br&gt;+ public void setRating(int rating)&lt;br&gt;&lt;br&gt;+ public int getDamage()&lt;br&gt;+ public int getDurability()&lt;br&gt;+ public String getMaterial()&lt;br&gt;+ public int getRating()&lt;br&gt;&lt;br&gt;+ public void displayStats()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-9">
+          <mxGeometry y="148" width="160" height="342" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.64;entryY=1.009;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MryCxwJ2JtJVVyy8R8ik-13" target="MryCxwJ2JtJVVyy8R8ik-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="630" y="520" />
+              <mxPoint x="562" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-13" value="Health" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="550" width="160" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-14" value="+ private int numUses;&lt;br&gt;+ private String material;&lt;br&gt;+ private int rating;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-13">
+          <mxGeometry y="26" width="160" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-13">
+          <mxGeometry y="140" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-16" value="+ Health (String name, String type, int quantity, String status,&amp;nbsp;&lt;br&gt;&amp;nbsp;double price, String description, int numUses, String material, int rating)&lt;br&gt;&lt;br&gt;+ public void setNumUses(int numUses)&lt;br&gt;+ public void setMaterial(String material)&lt;br&gt;+ public void setRating(int rating)&lt;br&gt;&lt;br&gt;+ public int getNumUses()&lt;br&gt;+ public String getMaterial()&lt;br&gt;+ public int getRating()&lt;br&gt;&lt;br&gt;+ public void displayStats()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-13">
+          <mxGeometry y="148" width="160" height="332" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.752;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MryCxwJ2JtJVVyy8R8ik-17" target="MryCxwJ2JtJVVyy8R8ik-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="845" y="510" />
+              <mxPoint x="580" y="510" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-17" value="Potion" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="550" width="190" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-18" value="+ private int numUses;&lt;br&gt;+ private int rating;&lt;br&gt;+ private String effectType;&lt;br&gt;+ private int lifetime;&lt;br&gt;+ private ArrayList&amp;lt;String&amp;gt; sideEffects;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-17">
+          <mxGeometry y="26" width="190" height="114" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-19" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-17">
+          <mxGeometry y="140" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="MryCxwJ2JtJVVyy8R8ik-20" value="+ Potion (String name, String type, int quantity,String status,&amp;nbsp;&lt;br&gt;double price, String description, int numUses, int rating, String effectType, int lifetime, ArrayList&amp;lt;String&amp;gt; sideEffects)&lt;br&gt;&lt;br&gt;+ public void setNumUses(int numUses)&lt;br&gt;+ public void setRating(int rating)&amp;nbsp;&lt;br&gt;+ public void setEffectType(String effectType)&lt;br&gt;+ public void setLifetime(int lifetime)&lt;br&gt;+ public void setSideEffects(ArrayList&amp;lt;String&amp;gt; sideEffects)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="MryCxwJ2JtJVVyy8R8ik-17">
+          <mxGeometry y="148" width="190" height="332" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

@@ -1,0 +1,4 @@
+The output within the method determineHealth() was displayed
+because either SuperHero object called it. At the end of the 
+while loop, when one of the SuperHero objects are defeated, the
+loop ends and displays whichever SuperHero object is victorious.

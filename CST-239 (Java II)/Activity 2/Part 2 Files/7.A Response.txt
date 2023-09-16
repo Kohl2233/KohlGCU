@@ -1,0 +1,2 @@
+There was an error because the class must be an abstract 
+class in order to use abstract methods

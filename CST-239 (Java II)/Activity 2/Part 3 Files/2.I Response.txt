@@ -1,0 +1,4 @@
+The comparisons between Person1 and Person2 are expected. They
+are not equal because of the firstName. Person3 and Person1 should
+have been from what I understand... so why it said not equal I have
+yet to figure out.

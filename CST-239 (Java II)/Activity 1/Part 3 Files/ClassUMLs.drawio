@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net" modified="2023-09-10T05:15:49.015Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="Zd3lLIGPZKWC_fDMVrjf" version="21.7.4" type="device">
+  <diagram name="Page-1" id="uuDij1_pZb6u3LV7Gy4G">
+    <mxGraphModel dx="270" dy="446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-1" value="Tire" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="360" width="160" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-2" value="+ int index&lt;br&gt;+ int pressure" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-1">
+          <mxGeometry y="70" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-4" value="+ Tire (int index, int pressure)&lt;br&gt;&lt;br&gt;+ public void setLocation(int index)&lt;br&gt;+ public void setPressure (int pressure)&lt;br&gt;&lt;br&gt;+ public int getIndex()&lt;br&gt;+ public int getPressure()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-1">
+          <mxGeometry y="78" width="160" height="162" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-5" value="Car" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="160" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-6" value="+ String make&lt;br&gt;+ String model&lt;br&gt;+ ArrayList&amp;lt;Tire&amp;gt; tires&lt;br&gt;+ Engine engine&lt;br&gt;+ String curState&lt;br&gt;+ int speed" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-5">
+          <mxGeometry y="26" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-5">
+          <mxGeometry y="130" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-8" value="+ Car (String make, String model, ArrayList&amp;lt;Tire&amp;gt; tires, Engine engine) // curState and speed will be default values.&lt;br&gt;&lt;br&gt;+ public void setMake(String make)&lt;br&gt;+ public void setModel(String model)&lt;br&gt;+ public void setTire(int index, Tire tire)&lt;br&gt;+ public void setState(String state)&lt;br&gt;&lt;br&gt;+ public String getModel()&lt;br&gt;+ public String getMake()&lt;br&gt;+ public ArrayList&amp;lt;Tire&amp;gt; getTires()&lt;br&gt;+ public String getState()&lt;br&gt;&lt;br&gt;+ public boolean checkTirePressure()&lt;br&gt;+ public void startEngine()&lt;br&gt;+ public void stopEngine()&lt;br&gt;+ public void cycleEngine()&lt;br&gt;+ public void accelerateToSpeed(int speed)" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-5">
+          <mxGeometry y="138" width="160" height="432" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-9" value="Engine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="160" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-10" value="+ String state" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-9">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-9">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="Lyrflcu-KSxW4gV2Mb1d-12" value="+ Engine (String state)&lt;br&gt;&lt;br&gt;+ public void setState(String state)&lt;br&gt;&lt;br&gt;+ public String getState()&lt;br&gt;&lt;br&gt;+ public void start()&lt;br&gt;+ public void stop()&lt;br&gt;+ public boolean isRunning()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="Lyrflcu-KSxW4gV2Mb1d-9">
+          <mxGeometry y="60" width="160" height="170" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

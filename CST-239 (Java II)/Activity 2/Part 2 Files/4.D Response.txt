@@ -1,0 +1,4 @@
+The output "In Bomb.fireWeapon()..." was displayed because
+the method was called from weapon1 (bomb) class. While there 
+is another method with the same name in the Superclass, the 
+subclasses method overrides it and is used instead. 

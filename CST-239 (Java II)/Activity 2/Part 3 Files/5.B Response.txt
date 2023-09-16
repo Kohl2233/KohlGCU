@@ -1,0 +1,5 @@
+The "not identitcal using ==" was displayed because Person1 
+does not equal Person2. The "not identical using equals()" was 
+displayed because Person1's first name is not the same as Person2's 
+first name. The "these persons are identical using equals()" was displayed 
+because Person3 is a copy of Person1.

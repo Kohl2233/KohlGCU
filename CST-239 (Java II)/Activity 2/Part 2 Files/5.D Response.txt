@@ -1,0 +1,5 @@
+The output "In overloaded Gun.fireWeapon()" displayed because
+the method was called from weapon2, but had no parameters given.
+Lastly, "In Weapon.fireWeapon()..." was displayed because the 
+method was called with super.fireWeapon(5) from the overloaded 
+fireWeapon method in the Gun class. 

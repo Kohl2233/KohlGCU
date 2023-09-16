@@ -1,0 +1,5 @@
+a toString() method can help with my milestone project with 
+printing out a list format of all the products within the store, 
+shopping cart, and also with the admin application. Equals() will be 
+helpful comparing products to one another, espicailly when it comes 
+to restocking the inventory manager.  

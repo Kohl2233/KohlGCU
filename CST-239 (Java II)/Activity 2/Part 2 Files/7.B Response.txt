@@ -1,0 +1,2 @@
+There was an error because the final method defined in the 
+Superclass cannot be overrided from the Gun and Bomb classes. 

@@ -1,0 +1,6 @@
+The output of "...with a power of #" was called because
+the Bomb and Gun classes are a subclass of Weapon, which 
+contains the method called fireWeapon(int power). From weapon1
+(bomb), the fireWeapon method was called with power of 10. With 
+the weapon2 (gun), the fireWeapon method was called with power of 
+5.
