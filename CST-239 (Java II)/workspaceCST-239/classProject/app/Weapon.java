@@ -16,6 +16,15 @@ public class Weapon extends SalableProduct {
 		this.rating = rating;
 	}
 	
+	// Copy Constructor
+	Weapon(Weapon weapon){
+		super(weapon.getName(), weapon.getType(), weapon.getQuantity(), weapon.getPrice(), weapon.getDescription());
+		this.damage = weapon.getDamage();
+		this.durability = weapon.getDurability();
+		this.material = weapon.getMaterial();
+		this.rating = weapon.getRating();
+	}
+	
 	// Setter Methods
 	public void setDamage(int damage) {this.damage = damage;}
 	public void setDurability(int durability) {this.durability = durability;}

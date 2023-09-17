@@ -14,6 +14,14 @@ public class Health extends SalableProduct {
 		this.rating = rating;
 	}
 	
+	// Copy Constructor
+	Health (Health health){
+		super(health.getName(), health.getType(), health.getQuantity(), health.getPrice(), health.getDescription());
+		this.numUses = health.getNumUses();
+		this.material = health.getMaterial();
+		this.rating = health.getRating();
+	}
+	
 	// Setter Methods
 	public void setNumUses(int numUses) {this.numUses = numUses;}
 	public void setMaterial(String material) {this.material = material;}

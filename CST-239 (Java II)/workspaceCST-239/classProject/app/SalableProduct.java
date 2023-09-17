@@ -23,7 +23,7 @@ public class SalableProduct {
 	// Setter Methods
 	public void setName(String name) {this.name = name;}
 	public void setType(String type) {this.type = type;}
-	public void setQuantity(int quantity) {this.quantity = quantity;}
+	public void setQuantity(int quantity) {this.quantity = quantity; this.checkStatus();}
 	public void setStatus(String status) {this.status = status;} 
 	public void setPrice(double price) {this.price = price;}
 	public void setDescription(String description) {this.description = description;}
@@ -40,6 +40,10 @@ public class SalableProduct {
 	public void displayDetails() {
 		System.out.printf("\nName: %s\nType: %s\nQty: %d\nStatus: %s\nUnit Price: $%,.2f\nDescription: %s\n", 
 				name, type, quantity, status, price, description);
+	}
+	
+	public void displaySimpleDetails() {
+		System.out.printf("%-30s%-15s%-15s$%,.2f\n", this.getName(), this.getType(), this.getStatus(), this.getPrice());
 	}
 	
 	// Inventory Methods

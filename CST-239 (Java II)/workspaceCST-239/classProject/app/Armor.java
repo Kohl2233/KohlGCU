@@ -14,6 +14,14 @@ public class Armor extends SalableProduct {
 		this.rating = rating;
 	}
 	
+	// Copy Constructor
+	Armor (Armor armor){
+		super(armor.getName(), armor.getType(), armor.getQuantity(), armor.getPrice(), armor.getDescription());
+		this.durability = armor.getDurability();
+		this.material = armor.getMaterial();
+		this.rating = armor.getRating();
+	}
+	
 	// Setter Methods
 	public void setDurability(int durability) {this.durability = durability;}
 	public void setMaterial(String material) {this.material = material;}
