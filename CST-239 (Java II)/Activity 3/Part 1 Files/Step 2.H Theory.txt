@@ -1,0 +1,1 @@
+Before we added the age attribute, the compareTo method worked by comparing the last names of the Person objects and the Arrays.sort method would sort them via last names. With sorting by the age attribute, the sorting method arranges them from least to greatest, but I need to do some more messing around to figure out how to reverse it to greatest to least. 

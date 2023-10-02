@@ -6,13 +6,13 @@ import java.util.Scanner;
 public class ShoppingCart {
 	private StoreFrontApplication StoreFront = null;
 	private InventoryManager InvManager = null;
-	private ArrayList<SalableProduct> shopCart = new ArrayList<SalableProduct>();
-	
+	private ArrayList<SalableProduct> shopCart = new ArrayList<>();
+
 	ShoppingCart (StoreFrontApplication StoreFront, InventoryManager InvManager){
 		this.StoreFront = StoreFront;
 		this.InvManager = InvManager;
 	}
-	
+
 	// Add Product to Cart Method
 	public void addProductToCart (SalableProduct product) {
 		// Create New Product For Use in Shopping Cart
@@ -27,17 +27,17 @@ public class ShoppingCart {
 			// create new health class
 			shopProduct = new Health((Health) product);
 		}
-		
+
 		product.setQuantity(product.getQuantity() - 1); // update quantity of InvManager's product
 		shopProduct.setQuantity(1); // update quantity of ShoppingCart's product
-		
+
 		// Add to Shopping Cart
 		shopCart.add(shopProduct);
-		
+
 		// Print Success Message
 		System.out.printf("\n%s has been added to cart! You now have %d item(s) in cart.\n\n", shopProduct.getName(), shopCart.size());
 	}
-	
+
 	// Remove Product From Cart Method
 	private void removeProductFromCart() {
 		boolean isValidInput = false;
@@ -52,19 +52,19 @@ public class ShoppingCart {
 				System.out.printf("\nInvalid number, should be between 1 and %d.\n", shopCart.size());
 			}
 		}
-		
+
 		// Update InvManagers Inventory
 		SalableProduct remProduct = shopCart.get(index - 1);
 		InvManager.updateProductQuantity(remProduct.getName(), 1);
-		
+
 		// Update ShopCart Inventory
 		shopCart.remove(index - 1);
-		
+
 		// Send User Back to Shopping Cart Menu
 		System.out.printf("\n%s has been removed from shopping cart.\n", remProduct.getName());
 		this.shopCart();
 	}
-	
+
 	// Shopping Cart Get Menu Choice Method
 	public String getShopMenuChoice() {
 		System.out.printf("\n----- Shopping Cart Menu -----\n"
@@ -92,7 +92,7 @@ public class ShoppingCart {
 			}
 			return input;
 	}
-	
+
 	// Display Cart Method
 	public void displayCart() {
 		if (shopCart.size() != 0) {
@@ -106,7 +106,7 @@ public class ShoppingCart {
 			System.out.println("Your Cart is Empty :(");
 		}
 	}
-	
+
 	// Shopping Cart Method
 	public void shopCart() {
 		this.displayCart();
@@ -119,7 +119,7 @@ public class ShoppingCart {
 		case "B":
 			// Checkout
 			break;
-		case "C": 
+		case "C":
 			// Back to In-Stock Products
 			StoreFront.inStock();
 			break;

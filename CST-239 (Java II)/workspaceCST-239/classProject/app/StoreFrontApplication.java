@@ -7,23 +7,23 @@ public class StoreFrontApplication {
 	// Attributes
 	InventoryManager InvManager = new InventoryManager();
 	ShoppingCart ShopCart = new ShoppingCart(this, InvManager);
-	
+
 	// Getter Methods
 	public InventoryManager getInventoryManager() {return InvManager;}
 	public ShoppingCart getShoppingCart() {return ShopCart;}
-	
+
 	// Welcome Message Method
 	public void displayWelcomeMsg() {
 		System.out.println("\nWelcome to Cheapos Refurbished Products!");
 	}
-	
+
 	// Main Menu Method
 	private String mainMenu() {
 		this.displayMainMenu();
 		String choice = this.getMainMenuChoice();
 		return choice;
 	}
-	
+
 	// Display Main Menu Method
 	public void displayMainMenu() {
 		System.out.printf("\n----- MAIN MENU -----\n"
@@ -33,7 +33,7 @@ public class StoreFrontApplication {
 				+ "[%s] Quit Program\n"
 				+ "Enter letter to continue.\n", "A", "B", "C", "D");
 	}
-	
+
 	// Get Main Menu Choice Method
 	private String getMainMenuChoice() {
 		boolean isValidInput = false;
@@ -48,21 +48,20 @@ public class StoreFrontApplication {
 				System.out.println("Invalid Input, options are A-D. Make sure it is capitalized.");
 			}
 		}
-		
+
 		return input;
 	}
-	
+
 	// Full Catalog Method
 	public void displayFullCatalog() {
 		System.out.println("-------------------- Full Product Catalog --------------------");
 		System.out.printf("%-30s%-15s%-15s%s\n", "NAME", "TYPE", "STATUS", "PRICE");
 		ArrayList<SalableProduct> products = InvManager.getProducts();
-		for (int i = 0; i < products.size(); i++) {
-			SalableProduct product = products.get(i);
+		for (SalableProduct product : products) {
 			System.out.printf("%-30s%-15s%-15s$%,.2f\n", product.getName(), product.getType(), product.getStatus(), product.getPrice());
 		}
 	}
-	
+
 	// In-Stock Method
 	public void inStock() {
 		this.displayInStockProducts();
@@ -84,13 +83,13 @@ public class StoreFrontApplication {
 			// Reprint Inventory
 			this.inStock(); // just send user back to in-stock product menu
 			break;
-		default: 
+		default:
 			// Back to Main Menu, method will do nothing, end, and then go back to main menu
 			break;
 		}
-		
+
 	}
-	
+
 	// Display In-Stock Products Method
 	public void displayInStockProducts() {
 		ArrayList<SalableProduct> stockProducts = InvManager.getInStockProducts();
@@ -101,7 +100,7 @@ public class StoreFrontApplication {
 			System.out.printf("[%d] %-30s%-15s%-15d$%,.2f\n", i + 1, product.getName(), product.getType(), product.getQuantity(), product.getPrice());
 		}
 	}
-	
+
 	// In-Stock Menu Method
 	private String getInStockMenuChoice() {
 		System.out.printf("\n----- In-Stock Product Menu -----\n"
@@ -125,7 +124,7 @@ public class StoreFrontApplication {
 		}
 		return input;
 	}
-	
+
 	// Inspect Single Product Menu Method
 	private int inspectSingleProductMenu(int size) {
 		boolean isValidInput = false;
@@ -142,7 +141,7 @@ public class StoreFrontApplication {
 		}
 		return input;
 	}
-	
+
 	// Inspect Single Product Method (Note: INDEX MUST BE FROM IN-STOCK PRODUCT LIST)
 	private void inspectSingleProduct(int index) {
 		ArrayList<SalableProduct> stockProducts = InvManager.getInStockProducts();
@@ -166,7 +165,7 @@ public class StoreFrontApplication {
 		}
 
 	}
-	
+
 	// Add Inspected Product to Cart Method
 	public void addInspectedToCart(SalableProduct product) {
 		// Prompt For Menu Choice
@@ -189,7 +188,7 @@ public class StoreFrontApplication {
 			}
 		}
 	}
-	
+
 	// Quit Program Method
 	private boolean quitProgram(boolean quit) {
 		if (quit) {
@@ -199,7 +198,7 @@ public class StoreFrontApplication {
 			return quit;
 		}
 	}
-	
+
 	// Main Method
 	public static void main(String[] args) {
 		StoreFrontApplication StoreFront = new StoreFrontApplication();

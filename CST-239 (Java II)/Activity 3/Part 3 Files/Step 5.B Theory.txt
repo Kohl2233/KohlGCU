@@ -1,0 +1,1 @@
+With using the WeaponInterface, we can give all weapons the same methods to use, with the ability to be used in different ways. Putting all the multiple types of weapons into an array of WeaponInterfaces allows us to call those methods without having to use casts or even a seperate array for Weapon and Bomb. 

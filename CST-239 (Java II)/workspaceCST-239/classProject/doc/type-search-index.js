@@ -1,1 +1,1 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"app","l":"Armor"},{"p":"app","l":"Health"},{"p":"app","l":"InventoryManager"},{"p":"app","l":"SalableProduct"},{"p":"app","l":"ShoppingCart"},{"p":"app","l":"StoreFrontApplication"},{"p":"app","l":"Weapon"}];updateSearchResults();
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"app","l":"InventoryManager"}];updateSearchResults();

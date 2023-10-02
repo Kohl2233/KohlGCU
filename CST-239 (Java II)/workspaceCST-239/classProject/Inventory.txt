@@ -1,0 +1,3 @@
+Wooden Sword@Weapon@3@10.58@Hack and slash with this splinter prone sword!@12@8@Wood@3
+Wooden Chestplate@Armor@2@34.85@Chestplate made from wood.. what else could you want?@22@Wood@4
+Medkit@Health@15@19.99@All-in-one bag for a doctor on the go.. if you have the time.@5@Sterile Cloth@1
