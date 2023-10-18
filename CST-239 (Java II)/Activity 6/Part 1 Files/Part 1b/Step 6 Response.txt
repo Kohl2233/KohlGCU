@@ -1,0 +1,1 @@
+On my end, all the iterations were shown at the same time. One the first line, "MyThread1.." was shown, and then "MyThread2..." was shown. This continued until Thread2 (with an iteration count of 100) was complete, then only Thread1 was printing to console. 

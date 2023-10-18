@@ -1,0 +1,1 @@
+For every 2 iterations of Thread2, Thread1 did one iteration. I highlighted the output showing this in the screenshot, but Thread1 was delayed by 1 second while Thread2 only had a delay of 1/2 of a second, hence it did double the iterations Thread1 could do in one second.

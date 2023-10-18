@@ -6,3 +6,12 @@
 /InventoryManager.class
 /ShoppingCart.class
 /StoreFrontApplication.class
+/AdminServer.class
+/AdminClient.class
+/Server.class
+/ServerThread.class
+/ServerControl.class
+/AdminApplication.class
+/NetworkServer.class
+/StoreFrontThread.class
+/NetworkServerThread.class

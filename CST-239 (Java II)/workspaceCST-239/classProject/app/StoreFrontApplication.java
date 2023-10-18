@@ -74,12 +74,26 @@ public class StoreFrontApplication {
 			this.addInspectedToCart(InvManager.getInStockProducts().get(targetIndex - 1)); // ask user if they wish to add that product to cart
 			break;
 		case "B":
-			// Sort By Price (low to high)
+			// Sort By Price (Ascending)
+			InvManager.sortInStockProducts(3);
+			this.inStock();
 			break;
 		case "C":
-			// Show Only X Type
+			// Sort By Price (Descending)
+			InvManager.sortInStockProducts(4);
+			this.inStock();
 			break;
 		case "D":
+			// Sort By Name (Ascending)
+			InvManager.sortInStockProducts(1);
+			this.inStock();
+			break;
+		case "E":
+			// Sort By Name (Descending)
+			InvManager.sortInStockProducts(2);
+			this.inStock();
+			break;
+		case "F":
 			// Reprint Inventory
 			this.inStock(); // just send user back to in-stock product menu
 			break;
@@ -94,10 +108,10 @@ public class StoreFrontApplication {
 	public void displayInStockProducts() {
 		ArrayList<SalableProduct> stockProducts = InvManager.getInStockProducts();
 		System.out.println("-------------------- In-Stock Products --------------------");
-		System.out.printf("%-34s%-15s%-15s%-15s\n", "NAME", "TYPE", "QTY", "PRICE"); // table column headers
+		System.out.printf("%-10s%-35s%-15s%-15s%-15s\n", "INDEX", "NAME", "TYPE", "QTY", "PRICE"); // table column headers
 		for (int i = 0; i < stockProducts.size(); i++) {
 			SalableProduct product = stockProducts.get(i);
-			System.out.printf("[%d] %-30s%-15s%-15d$%,.2f\n", i + 1, product.getName(), product.getType(), product.getQuantity(), product.getPrice());
+			System.out.printf("%-10s%-35s%-15s%-15d$%,.2f\n", "[" + Integer.toString(i + 1) + "]", product.getName(), product.getType(), product.getQuantity(), product.getPrice());
 		}
 	}
 
@@ -105,21 +119,23 @@ public class StoreFrontApplication {
 	private String getInStockMenuChoice() {
 		System.out.printf("\n----- In-Stock Product Menu -----\n"
 			+ "[%s] Inspect Single Product\n"
-			+ "[%s] Sort By Price\n"
-			+ "[%s] Show Only X Type\n"
+			+ "[%s] Sort By Price (Ascending)\n"
+			+ "[%s] Sort By Price (Descending)\n"
+			+ "[%s] Sort By Name (Ascending)\n"
+			+ "[%s] Sort By Name (Descending)\n"
 			+ "[%s] Reprint Inventory\n"
 			+ "[%s] Go Back to Main Menu\n"
-			+ "Enter letter to continue.\n", "A", "B", "C", "D", "E");
+			+ "Enter letter to continue.\n", "A", "B", "C", "D", "E", "F", "G");
 		boolean isValidInput = false;
 		String input = null;
 		while (!isValidInput) {
 			System.out.print("\nEnter Option: ");
 			Scanner scan = new Scanner(System.in);
 			input = scan.nextLine();
-			if (input.equals("A") || input.equals("B") || input.equals("C") || input.equals("D") || input.equals("E")) {
+			if (input.equals("A") || input.equals("B") || input.equals("C") || input.equals("D") || input.equals("E") || input.equals("F") || input.equals("G")) {
 				isValidInput = true;
 			} else {
-				System.out.println("Invalid Input, options are A-D. Make sure it is capitalized.");
+				System.out.println("Invalid Input, options are A-G. Make sure it is capitalized.");
 			}
 		}
 		return input;
@@ -201,7 +217,13 @@ public class StoreFrontApplication {
 
 	// Main Method
 	public static void main(String[] args) {
+		// Server Thread
+		NetworkServerThread server = new NetworkServerThread();
 		StoreFrontApplication StoreFront = new StoreFrontApplication();
+		server.StoreFront = StoreFront;
+		server.start();
+		
+		// Store Front Application
 		StoreFront.displayWelcomeMsg();
 		boolean quit = StoreFront.quitProgram(false);
 		while (!quit) {

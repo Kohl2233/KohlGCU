@@ -1,0 +1,1 @@
+Both the Client and the Server can send/recieve messages from one another. First the server is created, then the client, because we need a server running before a client can actually connect. Bascially, a network application works by reading/writing messages and doing other tasks based on those messages.

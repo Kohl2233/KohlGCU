@@ -1,0 +1,1 @@
+"MyThread1 is running" was displayed first simply because it was created first within the main method, followed by MyThread2. Both are running at the same time, as stated in the activity guide but the output is only called once and will only be displayed once.

@@ -1,0 +1,1 @@
+I think the counter did not reach the value of 1000 because by the time the main method was finished and the program terminited, there were still CounterThreads sleeping. With my end counter result being 974, I think that means 26 Threads were still sleeping at the time the program was terminated.

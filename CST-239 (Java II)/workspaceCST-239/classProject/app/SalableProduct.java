@@ -8,6 +8,7 @@ public class SalableProduct implements Comparable<SalableProduct> {
 	private String status;
 	private double price;
 	private String description;
+	private int sortType;
 
 	// Constructor
 	SalableProduct (String name, String type, int quantity, double price, String description){
@@ -63,8 +64,44 @@ public class SalableProduct implements Comparable<SalableProduct> {
 		}
 	}
 
+	// Sorting Stuff
+	/*
+	 * Name (Ascending) = 1
+	 * Name (Descending) = 2
+	 * Price (Ascending) = 3
+	 * Price (Descending) = 4
+	 */
+	public void setSortType(int sortType) {this.sortType = sortType;}
+	
 	@Override
 	public int compareTo(SalableProduct product) {
-		return name.compareTo(product.getName());
+		int returnNum = 0;
+		switch (sortType) {
+			case 1:
+				returnNum = name.compareTo(product.getName());
+				break;
+			case 2: 
+				returnNum = -1 * name.compareTo(product.getName());
+				break;
+			case 3: 
+				if (this.price < product.getPrice()) {
+					returnNum = -1;
+				} else if (this.price > product.getPrice()) {
+					returnNum = 1;
+				} else {
+					returnNum = 0;
+				}
+				break;
+			case 4:
+				if (this.price < product.getPrice()) {
+					returnNum = 1;
+				} else if (this.price > product.getPrice()) {
+					returnNum = -1;
+				} else {
+					returnNum = 0;
+				}
+				break;
+		}
+		return returnNum;
 	}
 }

@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class ShoppingCart {
 	private StoreFrontApplication StoreFront = null;
 	private InventoryManager InvManager = null;
-	private ArrayList<SalableProduct> shopCart = new ArrayList<>();
+	private ArrayList<SalableProduct> shopCart = new ArrayList<SalableProduct>();
 
 	ShoppingCart (StoreFrontApplication StoreFront, InventoryManager InvManager){
 		this.StoreFront = StoreFront;
@@ -106,6 +106,21 @@ public class ShoppingCart {
 			System.out.println("Your Cart is Empty :(");
 		}
 	}
+	
+	// Checkout Method
+	public void checkout() {
+		System.out.println("Thank you for your order! Your reciept is included below.");
+		System.out.println("-------------------- Order Reciept --------------------");
+		System.out.printf("%-30s%-15s%-15s\n", "NAME", "QTY", "PRICE"); // table column headers
+		double total = 0;
+		for (SalableProduct product : shopCart) {
+			total += product.getPrice();
+			System.out.printf("%-30s%-15s$%,.2f\n", product.getName(), product.getQuantity(), product.getPrice());
+		}
+		System.out.println("-------------------------------------------------------");
+		System.out.printf("Order Total: $%,.2f\n\n\n", total);
+		shopCart.clear();
+	}
 
 	// Shopping Cart Method
 	public void shopCart() {
@@ -118,6 +133,7 @@ public class ShoppingCart {
 			break;
 		case "B":
 			// Checkout
+			this.checkout();
 			break;
 		case "C":
 			// Back to In-Stock Products

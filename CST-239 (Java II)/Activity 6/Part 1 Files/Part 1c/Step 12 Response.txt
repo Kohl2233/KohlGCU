@@ -1,0 +1,1 @@
+I think with using "synchronized" it waits until all Threads finish what they are doing. With the max sleep amount being 1000 ms (1 second), the max time it will take is one second, so there really is not much waiting on our end. 

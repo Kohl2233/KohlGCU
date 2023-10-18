@@ -1,0 +1,1 @@
+This ties back to the main reason for using threads, speed. We can use multiple threads to perform different tasks at the same time. The ServerThread is simply printing a period every five seconds, while the Server is actually reading/writing data to and from the Client. 
