@@ -67,6 +67,64 @@ public class AdminApplication {
 				System.out.println(String.format("%-30s%-10s$%-10s", products[i], products[i + 1], products[i + 2]));
 			}
 		}
+		
+		// Create New Products Method
+		public String createNewProduct() throws IOException {
+			Scanner scan = new Scanner(System.in);
+			// Get Name
+			System.out.print("\nEnter Name of Product: ");
+			String name = scan.nextLine();
+			// Get Type
+			System.out.print("\nEnter Type of Product: ");
+			String type = scan.nextLine();
+			// Get Quantity
+			System.out.print("\nEnter Quantity of Product: ");
+			String qty = scan.nextLine();
+			// Get Price
+			System.out.print("\nEnter Price of Product: ");
+			String price = scan.nextLine();
+			// Get Description
+			System.out.print("\nEnter Description of Product: ");
+			String description = scan.nextLine();
+			
+			String productString = "," + name + "," + type + "," + qty + "," + price + "," + description + ",";
+			switch(type) {
+			case "Weapon":
+				// Get damage, durability, material, rating
+				System.out.print("\nEnter Damage of Product: ");
+				String dmg = scan.nextLine();
+				System.out.print("\nEnter Durability of Product: ");
+				String durability = scan.nextLine();
+				System.out.print("\nEnter Material of Product: ");
+				String material = scan.nextLine();
+				System.out.print("\nEnter Rating of Product: ");
+				String rating = scan.nextLine();
+				productString = productString + dmg + "," + durability + "," + material + "," + rating;
+				break;
+			case "Armor":
+				// get durability, material, rating
+				System.out.print("\nEnter Durability of Product: ");
+				durability = scan.nextLine();
+				System.out.print("\nEnter Material of Product: ");
+				material = scan.nextLine();
+				System.out.print("\nEnter Rating of Product: ");
+				rating = scan.nextLine();
+				productString = productString + durability + "," + material + "," + rating;
+				break;
+			case "Health":
+				// get numUses, material, and rating
+				System.out.print("\nEnter Number of Uses of Product: ");
+				String numUses = scan.nextLine();
+				System.out.print("\nEnter Material of Product: ");
+				material = scan.nextLine();
+				System.out.print("\nEnter Rating of Product: ");
+				rating = scan.nextLine();
+				productString = productString + numUses + "," + material + "," + rating;
+				break;
+			}
+			
+			return productString;
+		}
 	
 	public static void main(String[] args) throws UnknownHostException, IOException, InterruptedException {
 		AdminApplication client = new AdminApplication();
@@ -77,21 +135,26 @@ public class AdminApplication {
 		while(!quit) {
 			client.displayMainMenu();
 			String input = client.getMainMenuChoice();
-			String response = client.sendMessage(input);
+			String response = null;
 			switch(input) {
 			case "U":
 				// update inventory
+				response = client.sendMessage(input);
 				System.out.println(response);
 				break;
 			case "R":
 				// return inventory
+				response = client.sendMessage(input);
 				client.displayProducts(response);
 				break;
 			case "N":
-				// make a new product?
+				// make a new product
+				response = client.sendMessage("N" + client.createNewProduct());
+				System.out.println(response);
 				break;
 			case "Q":
 				// quit admin app
+				response = client.sendMessage(input);
 				System.out.println(response);
 				quit = true;
 				break;

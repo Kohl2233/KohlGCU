@@ -1,0 +1,2 @@
+A. According to Stack Overflow, you would use something like @Test(expected = ExceptionType.class)
+B. Regarding our class project, I think the hardest test cases will be with the server and also with the Inventory Manager. With that in mind, having a test case that checks wether or not a message was sent/recieved (maybe?) would work well, and then also having a test case that checks if an array is populated after the first item is added. 

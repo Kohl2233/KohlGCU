@@ -8,7 +8,7 @@ public class Weapon extends SalableProduct {
 	private int rating;
 
 	// Constructor
-	Weapon (String name, String type, int quantity, double price, String description, int damage, int durability, String material, int rating){
+	public Weapon (String name, String type, int quantity, double price, String description, int damage, int durability, String material, int rating){
 		super(name, type, quantity, price, description);
 		this.damage = damage;
 		this.durability = durability;

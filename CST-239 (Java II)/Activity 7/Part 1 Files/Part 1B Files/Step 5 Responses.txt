@@ -1,0 +1,3 @@
+A. I wrote 8 test cases, two per method. We simply needed to test (assert) wether or not 2 + 1 actaully equals 3 and so forth.
+B. Black box testing only considers the external behavior of a system. White box testing does the opposite, it tests software via internal functions.
+C. You would use a test suite when you want to run all of your tests, hence the name of the class AllTests.

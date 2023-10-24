@@ -27,24 +27,25 @@ public class NetworkServer {
 		// Wait for Commands
 		String inputLine;
 		while ((inputLine = in.readLine()) != null) {
-			switch (inputLine) {
-			case "U":
-				// update inventory with new products
+			switch (inputLine.charAt(0)) {
+			case 'U':
+				// update inventory with product inventories
 				StoreFront.InvManager.randomInventoryUpdate();
 				out.println("Inventory has been updated.");
 				out.flush();
 				break;
-			case "R":
+			case 'R':
 				// return all products in inventory
 				out.println(StoreFront.InvManager.getProductDetailsAsString());
 				out.flush();
 				break;
-			case "N":
+			case 'N':
 				// create new product
-				out.println("Recieved command to Add New.");
+				StoreFront.InvManager.addNewProduct(inputLine);
+				out.println("New Product has been added.");
 				out.flush();
 				break;
-			case "Q":
+			case 'Q':
 				// shutdown server
 				out.println("Received Command to Shut Down.");
 				out.flush();

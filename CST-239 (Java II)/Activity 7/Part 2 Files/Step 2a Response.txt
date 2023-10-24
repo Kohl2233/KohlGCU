@@ -1,0 +1,1 @@
+I think parameterized testing improved the overall testing by having all the test cases in one spot. With using a data object and then by using enums, it keeps the cases all together and its pretty easy to add/remove cases.

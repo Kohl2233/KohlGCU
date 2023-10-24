@@ -7,7 +7,7 @@ public class Health extends SalableProduct {
 	private int rating;
 
 	// Constructor
-	Health (String name, String type, int quantity, double price, String description, int numUses, String material, int rating){
+	public Health (String name, String type, int quantity, double price, String description, int numUses, String material, int rating){
 		super(name, type, quantity, price, description);
 		this.numUses = numUses;
 		this.material = material;

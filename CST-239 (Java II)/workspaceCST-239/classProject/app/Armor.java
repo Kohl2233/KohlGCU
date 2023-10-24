@@ -7,7 +7,7 @@ public class Armor extends SalableProduct {
 	private int rating;
 
 	// Constructor
-	Armor (String name, String type, int quantity, double price, String description, int durability, String material, int rating){
+	public Armor (String name, String type, int quantity, double price, String description, int durability, String material, int rating){
 		super(name, type, quantity, price, description);
 		this.durability = durability;
 		this.material = material;

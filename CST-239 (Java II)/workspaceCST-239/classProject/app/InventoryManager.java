@@ -66,7 +66,7 @@ public class InventoryManager {
 		//ObjectMapper objectMapper = new ObjectMapper();
 	}
 	// Constructor
-	InventoryManager(){
+	public InventoryManager(){
 		this.populateInventory();
 	}
 
@@ -118,6 +118,47 @@ public class InventoryManager {
 		for (int i = 0; i < products.size(); i++) {
 			SalableProduct product = products.get(i);
 			product.setQuantity(product.getQuantity() + randy.nextInt(9) + 1);
+		}
+	}
+	
+	// New Product Method
+	public void addNewProduct(String productString) {
+		String productInfo[] = productString.split(",");
+		switch(productInfo[2]) {
+		case "Weapon":
+			Weapon weapon = new Weapon(productInfo[1], 
+					productInfo[2], 
+					Integer.valueOf(productInfo[3]), 
+					Double.valueOf(productInfo[4]), 
+					productInfo[5], 
+					Integer.valueOf(productInfo[6]), 
+					Integer.valueOf(productInfo[7]), 
+					productInfo[8], 
+					Integer.valueOf(productInfo[9]));
+			products.add(weapon);
+			break;
+		case "Armor":
+			Armor armor = new Armor(productInfo[1], 
+					productInfo[2], 
+					Integer.valueOf(productInfo[3]), 
+					Double.valueOf(productInfo[4]), 
+					productInfo[5], 
+					Integer.valueOf(productInfo[6]), 
+					productInfo[7], 
+					Integer.valueOf(productInfo[8]));
+			products.add(armor);
+			break;
+		case "Health":
+			Health health = new Health(productInfo[1], 
+					productInfo[2], 
+					Integer.valueOf(productInfo[3]), 
+					Double.valueOf(productInfo[4]), 
+					productInfo[5], 
+					Integer.valueOf(productInfo[6]), 
+					productInfo[7], 
+					Integer.valueOf(productInfo[8]));
+			products.add(health);
+			break;
 		}
 	}
 	

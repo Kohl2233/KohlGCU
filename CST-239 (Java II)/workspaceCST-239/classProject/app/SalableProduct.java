@@ -11,7 +11,7 @@ public class SalableProduct implements Comparable<SalableProduct> {
 	private int sortType;
 
 	// Constructor
-	SalableProduct (String name, String type, int quantity, double price, String description){
+	public SalableProduct (String name, String type, int quantity, double price, String description){
 		this.name = name;
 		this.type = type;
 		this.quantity = quantity;
