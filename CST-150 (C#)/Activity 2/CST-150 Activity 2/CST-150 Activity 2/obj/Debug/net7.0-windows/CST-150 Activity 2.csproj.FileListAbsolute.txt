@@ -1,0 +1,16 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net7.0-windows\CST-150 Activity 2.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net7.0-windows\CST-150 Activity 2.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net7.0-windows\CST-150 Activity 2.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net7.0-windows\CST-150 Activity 2.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\bin\Debug\net7.0-windows\CST-150 Activity 2.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST_150_Activity_2.FrmSeconds.resources
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.csproj.GenerateResource.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\refint\CST-150 Activity 2.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\CST-150 Activity 2.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 2\CST-150 Activity 2\CST-150 Activity 2\obj\Debug\net7.0-windows\ref\CST-150 Activity 2.dll

@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" modified="2023-11-03T21:29:46.668Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="FCANIs-POlbLw4Cusm8h" version="22.0.8" type="device">
+  <diagram name="Page-1" id="xkZGFXlNhc61UKh821Hd">
+    <mxGraphModel dx="819" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-1" target="uaTOy_KGUDCtimsiWOgH-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="120" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-2" value="Get Input" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="375" y="220" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-4" target="uaTOy_KGUDCtimsiWOgH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-12" value="Nope" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-11">
+          <mxGeometry x="0.2987" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-4" value="If valid int" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-5" target="uaTOy_KGUDCtimsiWOgH-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-15" value="Nope" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-14">
+          <mxGeometry x="-0.2372" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-5" target="uaTOy_KGUDCtimsiWOgH-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-22" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-21">
+          <mxGeometry x="-0.1214" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-5" value="If input &amp;gt; 59" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="460" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-4" target="uaTOy_KGUDCtimsiWOgH-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-7" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-6">
+          <mxGeometry x="-0.15" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-10" target="uaTOy_KGUDCtimsiWOgH-2">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="250" y="250" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-10" value="Set lblResults.Text to say invalid" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-2" target="uaTOy_KGUDCtimsiWOgH-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-20" value="Calculate time in Minutes with seconds / 60 and display" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375" y="600" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-23" target="uaTOy_KGUDCtimsiWOgH-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-23" value="if input &amp;gt;= &lt;br&gt;3600" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="375" y="740" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-20" target="uaTOy_KGUDCtimsiWOgH-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-25" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-23" target="uaTOy_KGUDCtimsiWOgH-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-27" value="Nope" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-26">
+          <mxGeometry x="-0.0629" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-28" target="uaTOy_KGUDCtimsiWOgH-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-28" value="Calculate time in Hours with seconds / 3600 and display" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375" y="880" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-30" target="uaTOy_KGUDCtimsiWOgH-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-37" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-36">
+          <mxGeometry x="-0.2519" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-30" value="if input &amp;gt;=&lt;br&gt;86400" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-32" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1030" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-30" target="uaTOy_KGUDCtimsiWOgH-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-34" value="Nope" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="uaTOy_KGUDCtimsiWOgH-33">
+          <mxGeometry x="-0.1798" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-35" value="Calculate time in Days with seconds / 86400 and display result" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-38" value="End" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="680" y="1030" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="uaTOy_KGUDCtimsiWOgH-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="uaTOy_KGUDCtimsiWOgH-35" target="uaTOy_KGUDCtimsiWOgH-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

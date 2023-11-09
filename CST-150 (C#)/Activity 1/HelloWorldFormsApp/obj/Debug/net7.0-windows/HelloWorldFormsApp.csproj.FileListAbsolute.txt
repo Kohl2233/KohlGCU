@@ -1,0 +1,16 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\bin\Debug\net7.0-windows\HelloWorldFormsApp.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.Form1.resources
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.csproj.GenerateResource.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\refint\HelloWorldFormsApp.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\HelloWorldFormsApp.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 1\HelloWorldFormsApp\obj\Debug\net7.0-windows\ref\HelloWorldFormsApp.dll
