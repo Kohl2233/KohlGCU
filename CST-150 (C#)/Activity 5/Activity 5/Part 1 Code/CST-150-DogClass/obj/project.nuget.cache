@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "r1+aWn+R6YIYLXwJfXdA58YPdHS7tUXoxQ5erRZPWuw3Br6xr9bpiCHqdkVklFHwzWz4HdyS2OYyCtaq/qxVfQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kohl Johnson\\source\\repos\\CST-150-DogClass\\CST-150-DogClass\\CST-150-DogClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kohl Johnson\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.14\\microsoft.windowsdesktop.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kohl Johnson\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.14\\microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kohl Johnson\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.14\\microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "C:\\Users\\Kohl Johnson\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.14\\microsoft.netcore.app.host.win-x64.7.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

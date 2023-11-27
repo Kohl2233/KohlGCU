@@ -1,0 +1,58 @@
+<mxfile host="app.diagrams.net" modified="2023-11-11T07:08:45.116Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Av6JnYF1ncXaRHy7FplP" version="22.1.0" type="device">
+  <diagram name="Page-1" id="P9UMlKXebSAob3QQsSuZ">
+    <mxGraphModel dx="1434" dy="780" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-1" value="Start" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="103" y="390" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIMLNEUrRlaQyFZpk8aT-2" target="gIMLNEUrRlaQyFZpk8aT-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-7" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gIMLNEUrRlaQyFZpk8aT-6">
+          <mxGeometry x="-0.105" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-2" value="btnReadFile clicked?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="103" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gIMLNEUrRlaQyFZpk8aT-2" target="gIMLNEUrRlaQyFZpk8aT-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="83" y="540" />
+              <mxPoint x="83" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-4" value="Naw" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="gIMLNEUrRlaQyFZpk8aT-3">
+          <mxGeometry x="-0.1328" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIMLNEUrRlaQyFZpk8aT-5" target="gIMLNEUrRlaQyFZpk8aT-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-5" value="Prompt User to Select File" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="248" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIMLNEUrRlaQyFZpk8aT-8" target="gIMLNEUrRlaQyFZpk8aT-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-8" value="Read All File Contents" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="388" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gIMLNEUrRlaQyFZpk8aT-11" target="gIMLNEUrRlaQyFZpk8aT-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-11" value="Seperate with Comma as Delimeter" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="528" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gIMLNEUrRlaQyFZpk8aT-13" value="Display File Contents" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="668" y="490" width="100" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
