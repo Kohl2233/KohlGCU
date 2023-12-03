@@ -4,5 +4,8 @@
     <Compile Update="PresentationLayer\FrmMain.cs">
       <SubType>Form</SubType>
     </Compile>
+    <Compile Update="PresentationLayer\FrmNewMovie.cs">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
 </Project>

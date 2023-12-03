@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 /* Kohl Johnson
  * CST-150
  * Class Project
- * 11-25-2023
- * Citation(s): 
+ * 12-3-2023
+ * Citation(s):
  */
 namespace Class_Project.BusinessLayer
 {
-    internal class Movie
+    public class Movie
     {
         // Attributes
         public string Name;

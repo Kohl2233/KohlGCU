@@ -30,3 +30,4 @@ C:\Users\Kohl Johnson\Desktop\Class Project\Class Project\obj\Debug\net7.0-windo
 C:\Users\Kohl Johnson\Desktop\Class Project\Class Project\obj\Debug\net7.0-windows\ref\Class Project.dll
 C:\Users\Kohl Johnson\Desktop\Class Project\Class Project\obj\Debug\net7.0-windows\Class_Project.FrmMain.resources
 C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Class Project\Class Project\Class Project\obj\Debug\net7.0-windows\Class_Project.FrmMain.resources
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Class Project\Class Project\Class Project\obj\Debug\net7.0-windows\Class_Project.PresentationLayer.FrmNewMovie.resources
