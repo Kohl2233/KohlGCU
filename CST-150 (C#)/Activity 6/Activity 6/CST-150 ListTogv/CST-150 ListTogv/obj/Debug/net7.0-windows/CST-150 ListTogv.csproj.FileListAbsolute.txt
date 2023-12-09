@@ -1,0 +1,16 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net7.0-windows\CST-150 ListTogv.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net7.0-windows\CST-150 ListTogv.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net7.0-windows\CST-150 ListTogv.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net7.0-windows\CST-150 ListTogv.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\bin\Debug\net7.0-windows\CST-150 ListTogv.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST_150_ListTogv.FrmInventory.resources
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.csproj.GenerateResource.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\refint\CST-150 ListTogv.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\CST-150 ListTogv.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-150 (C#)\Activity 6\CST-150 ListTogv\CST-150 ListTogv\obj\Debug\net7.0-windows\ref\CST-150 ListTogv.dll

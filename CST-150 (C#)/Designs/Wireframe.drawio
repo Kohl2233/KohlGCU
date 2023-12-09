@@ -1,140 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2023-12-03T18:24:39.659Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="7X0qvHElKOOB7D0H9YEN" version="22.1.5" type="device">
+<mxfile host="app.diagrams.net" modified="2023-12-09T18:56:53.796Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="n2LezbmpClSMH0iXSlvr" version="22.1.7" type="device">
   <diagram name="Page-1" id="W1TEgyXT-nMo7e60HU6L">
-    <mxGraphModel dx="1434" dy="1880" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="2076" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="9baAut3-bObyx5BzjMqD-6" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="168" width="520" height="582" as="geometry" />
+          <mxGeometry x="40" y="160" width="520" height="632" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-4" value="Reload Inventory" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="420" y="208" width="120" height="60" as="geometry" />
+          <mxGeometry x="420" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="80" y="208" width="320" height="502" as="geometry" />
+          <mxGeometry x="80" y="250" width="320" height="502" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-10" value="&lt;b&gt;Name&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="100" y="208" width="60" height="30" as="geometry" />
+          <mxGeometry x="100" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-11" value="&lt;b&gt;Qty&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="208" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-12" value="&lt;b&gt;Price&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="208" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="250" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-16" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="228" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="270" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-18" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="238" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="280" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-29" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="228" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-30" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="228" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-31" value="Interstellar" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="258" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="300" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-32" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="268" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="310" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-33" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="258" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-34" value="$19.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="258" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-35" value="Shrek" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="288" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="330" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-36" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="298" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="340" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-37" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="288" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-38" value="$29.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="288" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-39" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="318" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="360" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-40" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="328" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="370" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-41" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="318" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-42" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="318" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="360" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-43" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="348" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="390" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-44" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="358" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="400" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-45" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="348" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-46" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="348" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="390" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-47" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="378" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="420" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-48" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="388" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="430" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-49" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="378" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-50" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="378" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="420" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-51" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="408" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="450" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-52" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="418" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="460" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-53" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="408" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-54" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="408" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-55" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="438" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="480" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-56" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="448" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="490" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-57" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="438" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-58" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="438" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="480" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-59" value="Avengers: Infinity War" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="110" y="468" width="170" height="30" as="geometry" />
+          <mxGeometry x="110" y="510" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-60" value="" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.checkbox2;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;gradientColor=#DEDEDE;fillColor=#EDEDED;checked=0;spacing=5;checkedFill=#0085FC;checkedStroke=#ffffff;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="90" y="478" width="10" height="10" as="geometry" />
+          <mxGeometry x="90" y="520" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-61" value="2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="280" y="468" width="60" height="30" as="geometry" />
+          <mxGeometry x="280" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-62" value="$25.99" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="340" y="468" width="60" height="30" as="geometry" />
+          <mxGeometry x="340" y="510" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-63" value="Display Products Form" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="207.5" y="128" width="185" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-64" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="168" width="520" height="512" as="geometry" />
+          <mxGeometry x="600" y="160" width="520" height="520" as="geometry" />
         </mxCell>
         <mxCell id="9baAut3-bObyx5BzjMqD-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="640" y="213" width="440" height="360" as="geometry" />
@@ -179,7 +179,7 @@
           <mxGeometry x="753.75" y="128" width="212.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="wPursQF8PRuPrvGqT7gL-17" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1160" y="173" width="520" height="440" as="geometry" />
+          <mxGeometry x="1160" y="160" width="520" height="453" as="geometry" />
         </mxCell>
         <mxCell id="wPursQF8PRuPrvGqT7gL-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="1200" y="213" width="440" height="360" as="geometry" />
@@ -226,44 +226,59 @@
         <mxCell id="wPursQF8PRuPrvGqT7gL-34" value="Back to Display" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1480" y="488" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ZmE9vxEUuSmNn-mOsmGT-1" value="&lt;h1&gt;Citation&lt;/h1&gt;&lt;p&gt;Name: Kohl Johnson&lt;/p&gt;&lt;p&gt;Course: CST-150&lt;/p&gt;&lt;p&gt;Last Edited: 12-3-2023&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+        <mxCell id="ZmE9vxEUuSmNn-mOsmGT-1" value="&lt;h1&gt;Citation&lt;/h1&gt;&lt;p&gt;Name: Kohl Johnson&lt;/p&gt;&lt;p&gt;Course: CST-150&lt;/p&gt;&lt;p&gt;Last Edited: 12-9-2023&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="8" width="190" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-1" value="Create Movie" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="278" width="120" height="60" as="geometry" />
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-1" value="Create Movie" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="320" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-2" value="Inspect Movie" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="438" width="120" height="60" as="geometry" />
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-2" value="Inspect Movie" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="480" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-3" value="Increase Qty" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="508" width="120" height="60" as="geometry" />
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-3" value="Increase Qty" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-4" value="Decrease Qty" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="580" width="120" height="60" as="geometry" />
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-4" value="Decrease Qty" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="622" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-5" value="Remove Movie" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="420" y="650" width="120" height="60" as="geometry" />
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-5" value="Remove Movie" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
+          <mxGeometry x="420" y="692" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-6" value="Selected Movie:&lt;br&gt;Avengers: Infinity War" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="420" y="368" width="120" height="60" as="geometry" />
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-6" value="Selected Movie:&lt;br&gt;Avengers: Infinity War" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="420" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-7" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="530" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-8" value="Score" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-8" value="Score" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="640" y="530" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-9" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="890" y="270" width="180" height="290" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-10" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-10" value="Description" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="890" y="228" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-11" value="Submit" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-11" value="Submit" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="960" y="590" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="XMGnkVKqxB-2CC_kpqJi-12" value="Clear Form" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="XMGnkVKqxB-2CC_kpqJi-12" value="Clear Form" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="830" y="590" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBG3b-9q-EPwP5mUQ_v-1" value="Score" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1480" y="378" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBG3b-9q-EPwP5mUQ_v-2" value="7" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1540" y="378" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBG3b-9q-EPwP5mUQ_v-3" value="Joe&#39;s Movie Shack" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="217.5" y="170" width="185" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBG3b-9q-EPwP5mUQ_v-4" value="Search" style="labelPosition=center;verticalLabelPosition=middle;align=center;html=1;shape=mxgraph.basic.shaded_button;dx=10;fillColor=#E6E6E6;strokeColor=none;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="420" y="200" width="120" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="QoBG3b-9q-EPwP5mUQ_v-5" value="Enter Search Param..." style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fontStyle=2" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="172.5" height="43" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
