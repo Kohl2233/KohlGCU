@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "F7SIIVLNebawbe1Yj9MT2/Rcf6F9IcJXTFmvYOu+JEyDre+ydF+XZ38zNtItMhDlABmT1kFFhzYl4z4RnRQvgQ==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-250 (C# 2)\\CarShopGUI\\CarClassLibrary\\CarShopConsoleApp\\CarShopConsoleApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1105",
+      "level": "Error",
+      "message": "Unable to find project information for 'C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-250 (C# 2)\\CarShopGUI\\CarClassLibrary\\CarClassLibrary\\CarClassLibrary.csproj'. If you are using Visual Studio, this may be because the project is unloaded or not part of the current solution so run a restore from the command-line. Otherwise, the project file may be invalid or missing targets required for restore.",
+      "libraryId": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-250 (C# 2)\\CarShopGUI\\CarClassLibrary\\CarClassLibrary\\CarClassLibrary.csproj",
+      "targetGraphs": [
+        "net7.0"
+      ]
+    }
+  ]
+}

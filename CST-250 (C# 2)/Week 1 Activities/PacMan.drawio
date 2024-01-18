@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" modified="2023-12-23T03:44:45.698Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Q3a7h_GbMLvjRBbBU4Wd" version="22.1.11" type="device">
+  <diagram name="Page-1" id="NgstvmFSRasIzPdI2sDC">
+    <mxGraphModel dx="1147" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="poMq1mNdINquA6JIf1AD-1" value="PacMan" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-2" value="+ Score: int&lt;br&gt;+ Pos: int[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="poMq1mNdINquA6JIf1AD-1">
+          <mxGeometry y="26" width="160" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="poMq1mNdINquA6JIf1AD-1">
+          <mxGeometry y="70" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-4" value="+ eatDot()&lt;br&gt;+ checkCollision()&lt;br&gt;- checkInput()&lt;br&gt;- move()&lt;br&gt;- die()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="poMq1mNdINquA6JIf1AD-1">
+          <mxGeometry y="78" width="160" height="82" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-5" value="Ghost" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-6" value="+ Color: string&lt;br&gt;+ CurState: string&lt;br&gt;- States: string[]" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="poMq1mNdINquA6JIf1AD-5">
+          <mxGeometry y="26" width="160" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="poMq1mNdINquA6JIf1AD-5">
+          <mxGeometry y="80" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-8" value="+ checkCollision()&lt;br&gt;- checkState()&lt;br&gt;- setState()&lt;br&gt;- die()" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="poMq1mNdINquA6JIf1AD-5">
+          <mxGeometry y="88" width="160" height="72" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="170" width="370" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="poMq1mNdINquA6JIf1AD-9" value="&lt;h1&gt;Explanation&lt;/h1&gt;&lt;div&gt;PacMan Attributes&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Score: holds the player score&lt;/li&gt;&lt;li&gt;Pos: coordinate representation (x, y) of player position on a grid&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;PacMan Methods&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;eatDot(): called when player eats any dot (small or big)&lt;/li&gt;&lt;li&gt;checkCollision(): called whenever player collides with wall or Ghost class&lt;/li&gt;&lt;li&gt;checkInput(): called every time a key is pressed to change movement direction, which then calls move()&lt;/li&gt;&lt;li&gt;move(): Used to change direction of movement&lt;/li&gt;&lt;li&gt;die(): ends the game&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Ghost Attributes&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Color: holds the color of the Ghost&lt;/li&gt;&lt;li&gt;CurState: holds the current state&lt;/li&gt;&lt;li&gt;States: holds all the possible states a Ghost can have&lt;/li&gt;&lt;/ul&gt;&lt;div&gt;Ghost Methods&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;checkCollision(): Used when Ghost collides with wall or PacMan class&lt;/li&gt;&lt;li&gt;checkState(): checks the current state to see if it&#39;s still the best choice, if not, it finds the best and calls setState()&lt;/li&gt;&lt;li&gt;setState(): changes CurState to a state from States&lt;/li&gt;&lt;li&gt;die(): called from checkCollision() if PacMan has ability&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="245" y="170" width="360" height="470" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
