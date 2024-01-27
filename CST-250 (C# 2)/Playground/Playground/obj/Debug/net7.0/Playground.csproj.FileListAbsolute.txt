@@ -1,0 +1,14 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\bin\Debug\net7.0\Playground.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\bin\Debug\net7.0\Playground.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\bin\Debug\net7.0\Playground.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\bin\Debug\net7.0\Playground.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\bin\Debug\net7.0\Playground.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\refint\Playground.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\Playground.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\Playground\Playground\obj\Debug\net7.0\ref\Playground.dll

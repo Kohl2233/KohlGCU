@@ -1,0 +1,14 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\bin\Debug\net7.0\RecursionExamples.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\bin\Debug\net7.0\RecursionExamples.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\bin\Debug\net7.0\RecursionExamples.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\bin\Debug\net7.0\RecursionExamples.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\bin\Debug\net7.0\RecursionExamples.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\refint\RecursionExamples.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\RecursionExamples.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\RecursionExamples\RecursionExamples\obj\Debug\net7.0\ref\RecursionExamples.dll
