@@ -1,0 +1,17 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\bin\Debug\net7.0-windows\HeroMaker.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\bin\Debug\net7.0-windows\HeroMaker.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\bin\Debug\net7.0-windows\HeroMaker.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\bin\Debug\net7.0-windows\HeroMaker.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\bin\Debug\net7.0-windows\HeroMaker.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.FrmCreate.resources
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.csproj.GenerateResource.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\refint\HeroMaker.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\ref\HeroMaker.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\HeroMaker\HeroMaker\obj\Debug\net7.0-windows\HeroMaker.FrmDisplay.resources

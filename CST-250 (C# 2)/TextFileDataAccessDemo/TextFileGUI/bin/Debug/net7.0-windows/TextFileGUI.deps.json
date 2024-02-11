@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "TextFileGUI/1.0.0": {
+        "dependencies": {
+          "TextFileDataAccessDemo": "1.0.0"
+        },
+        "runtime": {
+          "TextFileGUI.dll": {}
+        }
+      },
+      "TextFileDataAccessDemo/1.0.0": {
+        "runtime": {
+          "TextFileDataAccessDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TextFileGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TextFileDataAccessDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

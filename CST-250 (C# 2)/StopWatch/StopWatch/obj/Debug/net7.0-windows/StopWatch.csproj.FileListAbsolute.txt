@@ -1,0 +1,16 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\bin\Debug\net7.0-windows\StopWatch.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\bin\Debug\net7.0-windows\StopWatch.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\bin\Debug\net7.0-windows\StopWatch.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\bin\Debug\net7.0-windows\StopWatch.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\bin\Debug\net7.0-windows\StopWatch.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.Form1.resources
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.csproj.GenerateResource.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\refint\StopWatch.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\StopWatch.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-250 (C# 2)\StopWatch\StopWatch\obj\Debug\net7.0-windows\ref\StopWatch.dll
