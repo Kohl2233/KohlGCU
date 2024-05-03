@@ -1,0 +1,69 @@
+// Input: N
+
+int i, numMoves
+char s, d, a
+
+// Check if Number of Disks is Even
+if (numDisks % 2 == 0) {
+	// switch destination pole and auxilary pole
+}
+
+// Calculate Total Moves Required
+numMoves = Math.pow(2, numDisks) - 1;
+
+// Add Disks to Source Pole
+for (i = numDisks; i >= 1; i--) {
+	// add disk to source pole
+}
+
+// Run Algo
+for (i = 1; i <= numMoves; i++) {
+	if (i % 3 == 1) {
+		// move from source pole to destination pole
+		moveDisksTwoPoles(source, dest, s, d, i);
+	}
+	else if (i % 3 == 2) {
+		// move from source to aux pole
+		moveDisksTwoPoles(source, aux, s, a, i);
+	}
+	else if (i % 3 == 0) {
+		// move from aux to destination pole
+		moveDisksTwoPoles(aux, dest, a, d, i);
+	}
+}
+
+// Print Total Moves
+// End of Program
+
+
+
+
+// ----- moveDisksTwoPoles Method (returns nothing) -----
+// Remove pole1 (source pole) top disk and pole2 (dest pole) top disk
+int pole1TopDisk = removeFromPole(source);
+int pole2Topdisk = removeFromPole(dest);
+
+// Figure out what to do (-2 means pole is empty)
+if (pole1TopDisk == -2) {
+	// move pole2 disk to pole1, print move
+	addToPole(source, pole2TopDisk);
+	printMove(d, s, pole2TopDisk, moveNum);
+}
+else if (pole2TopDisk == -2) {
+	// move pole1 disk to pole2, print move
+	addToPole(dest, pole1TopDisk);
+	printMove(s, d, pole1Topdisk, moveNum);
+} 
+else if (pole1TopDisk > pole2TopDisk) {
+	// add pole1Disk back to pole1 (since its larger), add pole2Disk to pole1, print move
+	addToPole(source, pole1TopDisk);
+	addToPole(source, pole2TopDisk);
+	printMove(d, s, pole2TopDisk, moveNum);
+}
+else {
+	// add pole2 disk back to dest pole (since its larger), add pole1 disk to dest pole, print move
+	addToPole(dest, pole2TopDisk);
+	addToPole(dest, pole1TopDisk);
+	printMove(s, d, pole1TopDisk, moveNum);
+}
+// End of Method

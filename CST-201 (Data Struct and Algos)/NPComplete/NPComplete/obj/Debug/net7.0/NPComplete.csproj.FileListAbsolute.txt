@@ -1,0 +1,14 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\bin\Debug\net7.0\NPComplete.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\bin\Debug\net7.0\NPComplete.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\bin\Debug\net7.0\NPComplete.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\bin\Debug\net7.0\NPComplete.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\bin\Debug\net7.0\NPComplete.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\refint\NPComplete.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\NPComplete.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\NPComplete\NPComplete\obj\Debug\net7.0\ref\NPComplete.dll

@@ -1,0 +1,14 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\bin\Debug\net7.0\CompareSorting.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\bin\Debug\net7.0\CompareSorting.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\bin\Debug\net7.0\CompareSorting.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\bin\Debug\net7.0\CompareSorting.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\bin\Debug\net7.0\CompareSorting.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\refint\CompareSorting.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\CompareSorting.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\CompareSorting\CompareSorting\obj\Debug\net7.0\ref\CompareSorting.dll

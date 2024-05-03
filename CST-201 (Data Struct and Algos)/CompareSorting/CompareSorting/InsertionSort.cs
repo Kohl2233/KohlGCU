@@ -1,0 +1,55 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CompareSorting
+{
+    internal class InsertionSort
+    {
+        int[] arr = null;
+        public int numComps = 0;
+        public int numExchanges = 0;
+
+        /// <summary>
+        /// Default Constructor
+        /// </summary>
+        /// <param name="arr"></param>
+        public InsertionSort(DynamicArray arr) 
+        {
+            this.arr = arr.GetArray();
+        }
+
+        /// <summary>
+        /// Method to Sort Using Insertion Sort Algo
+        /// </summary>
+        /// <param name="array"></param>
+        private void Sort(int[] array)
+        {
+            int n = arr.Length;
+            for (int i = 1; i < n; i++)
+            {
+                int key = array[i];
+                int j = i - 1;
+                numExchanges += 2;
+                while (j >= 0 && arr[j] > key)
+                {
+                    numComps += 2;
+                    numExchanges += 2;
+                    arr[j + 1] = arr[j];
+                    j = j - 1;
+                }
+                arr[j + 1] = key;
+            }
+        }
+
+        /// <summary>
+        /// Public Method to Perform Insertion Sort
+        /// </summary>
+        public void PerformInsertionSort()
+        {
+            Sort(this.arr);
+        }
+    }
+}

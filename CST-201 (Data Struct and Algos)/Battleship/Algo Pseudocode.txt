@@ -1,0 +1,69 @@
+// Input: void
+// Note: Just a disclaimer, this is not a pattern matching algo.
+// applying it to a cell based pattern. 
+Cell target = null;
+if (computerMemory.isEmpty()) {
+	// We have yet to hit anything, choose random
+	Random randy = new Random();
+	boolean valid = false;
+	while (!valid) {
+		int col = randy.nextInt(10);
+		int row = randy.nextInt(10);
+		if (playerBoard.isValidFire(col, row)) {
+			target = new Cell(col, row, -1);
+			valid = true;
+		}
+	}
+} else {
+	// Educated Guess
+	boolean targetFound = false;
+	while (!targetFound) {
+		// Pick One of Eight Valid Sides
+		ArrayList<Cell> prospects = new ArrayList<Cell>();
+		int col = computerMemory.get(computerMemory.size() - 1).getPosX();
+		int row = computerMemory.get(computerMemory.size() - 1).getPosY();
+		
+		if (playerBoard.isValidFire(col - 1, row - 1)) { prospects.add(new Cell(col - 1, row - 1, -1)); }
+		if (playerBoard.isValidFire(col, row - 1)) { prospects.add(new Cell(col, row - 1, -1)); }
+		if (playerBoard.isValidFire(col + 1, row - 1)) { prospects.add(new Cell(col + 1, row - 1, -1)); }
+		
+		if (playerBoard.isValidFire(col - 1, row)) { prospects.add(new Cell(col - 1, row, -1)); }
+		if (playerBoard.isValidFire(col + 1, row)) { prospects.add(new Cell(col + 1, row, -1)); }
+		
+		if (playerBoard.isValidFire(col - 1, row + 1)) { prospects.add(new Cell(col - 1, row + 1, -1)); }
+		if (playerBoard.isValidFire(col, row + 1)) { prospects.add(new Cell(col, row + 1, -1)); }
+		if (playerBoard.isValidFire(col + 1, row + 1)) { prospects.add(new Cell(col + 1, row + 1, -1)); }
+		
+		if (prospects.isEmpty()) {
+			// no more moves, remove last hit, cycle again
+			if (!computerMemory.isEmpty()) {
+				computerMemory.remove(computerMemory.size() - 1);
+				System.out.println("DEBUG: No more moves, removing last hit.");
+				
+				// check if memory is now empty
+				if (computerMemory.isEmpty()) {
+					System.out.println("Memory is now empty, choosing random.");
+					// memory is empty, get random
+					Random randy = new Random();
+					boolean valid = false;
+					while (!valid) {
+						col = randy.nextInt(10);
+						row = randy.nextInt(10);
+						if (playerBoard.isValidFire(col, row)) {
+							target = new Cell(col, row, -1);
+							valid = true;
+							
+						}
+					}
+					targetFound = true;
+				}
+			}
+		} else {
+			System.out.println("Choosing Random Position out of Valid Sides.");
+			Random randy = new Random();
+			target = prospects.get(randy.nextInt(prospects.size()));
+			targetFound = true;
+		}
+	}
+}
+return target;

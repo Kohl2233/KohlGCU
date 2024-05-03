@@ -1,0 +1,41 @@
+private bool RecursiveCycleCheck(int i)
+{
+	// Mark Current Node as Visited & Part of Recursion Stack
+	if (recStack[i]) { return true; }
+	if (visited[i]) { return false; }
+	numComps += 2;
+
+	visited[i] = true;
+	recStack[i] = true;
+	List<int[]> children = AdjNodes[i];
+	numExchanges++;
+
+	// Check Each Child
+	for (int j = 0; j < children.Count; j++)
+	{
+		numComps++;
+		if (RecursiveCycleCheck(children[j][0])) { return true; }
+	}
+
+	recStack[i] = false;
+	return false;
+}
+
+
+public bool IsCyclic()
+{
+	// Reset Visited and RecStack
+	visited = new bool[NumNodes];
+	recStack = new bool[NumNodes];
+
+	// Call Recursive Function to Check Each Tree
+	for (int i = 0; i < NumNodes; i++)
+	{
+		if (RecursiveCycleCheck(i)) 
+		{
+			return true; 
+		}
+	}
+
+	return false;
+}

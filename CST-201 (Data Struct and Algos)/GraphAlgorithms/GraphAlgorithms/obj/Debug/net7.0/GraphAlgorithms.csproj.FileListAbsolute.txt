@@ -1,0 +1,14 @@
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\bin\Debug\net7.0\GraphAlgorithms.exe
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\bin\Debug\net7.0\GraphAlgorithms.deps.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\bin\Debug\net7.0\GraphAlgorithms.runtimeconfig.json
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\bin\Debug\net7.0\GraphAlgorithms.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\bin\Debug\net7.0\GraphAlgorithms.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.AssemblyInfoInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.AssemblyInfo.cs
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\refint\GraphAlgorithms.dll
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.pdb
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\GraphAlgorithms.genruntimeconfig.cache
+C:\Users\kohlj\OneDrive\Desktop\Grand Canyon University\CST-201 (Data Struct and Algos)\GraphAlgorithms\GraphAlgorithms\obj\Debug\net7.0\ref\GraphAlgorithms.dll
