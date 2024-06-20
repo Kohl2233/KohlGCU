@@ -1,0 +1,155 @@
+[{
+
+"_id": {
+
+"$oid": "6331e64e8027c38f9faabccb"
+
+},
+
+"Title": "Abby Road",
+
+"Artist": "The Beattles",
+
+"Year": 1969,
+
+"ImageURL": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+
+"Description": "Abbey Road is the eleventh studio album by English rock band the Beatles, released on 26 September 1969 by Apple Records."
+
+},{
+
+"_id": {
+
+"$oid": "6331e6768027c38f9faabccc"
+
+},
+
+"Title": "Let it be",
+
+"Artist": "The Beattles",
+
+"Year": 1970,
+
+"ImageURL": "https://upload.wikimedia.org/wikipedia/en/2/25/LetItBe.jpg",
+
+"Description": "Let It Be is the twelfth and final studio album by the English rock band the Beatles. It was released on 8 May 1970, almost a month after the group's break-up. Like most of the band's previous releases, it was a number one album in many countries, including both the US and the UK"
+
+},{
+
+"_id": {
+
+"$oid": "6331e6968027c38f9faabccd"
+
+},
+
+"Title": "Help",
+
+"Artist": "The Beattles",
+
+"Year": 1965,
+
+"ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/e7/Help%21_%28The_Beatles_album_-_cover_art%29.jpg",
+
+"Description": "Help! is the fifth studio album by English rock band the Beatles and the soundtrack from their film Help!. It was released on 6 August 1965. Produced by George Martin, it was the fifth UK album release by the band, and contains fourteen songs in its original British form."
+
+},{
+
+"_id": {
+
+"$oid": "6331e6c38027c38f9faabcce"
+
+},
+
+"Title": "Revolver",
+
+"Artist": "The Beattles",
+
+"Year": 1966,
+
+"ImageURL": "https://upload.wikimedia.org/wikipedia/en/e/ec/Revolver_%28album_cover%29.jpg",
+
+"Description": "Revolver is the seventh studio album by the English rock band the Beatles. Released on 5 August 1966, it was the Beatles' final recording project before their retirement as live performers and marked the group's most overt use of studio technology up to that time, building on the advances of their late 1965 release Rubber Soul."
+
+},{
+
+"_id": {
+
+"$oid": "6331e70c8027c38f9faabccf"
+
+},
+
+"Title": "Rubber Soul",
+
+"Artist": "The Beattles",
+
+"Year": 1965,
+
+"ImageURL": "https://upload.wikimedia.org/wikipedia/en/7/74/Rubber_Soul.jpg",
+
+"Description": "Rubber Soul is the sixth studio album by the English rock band the Beatles. It was released on 3 December 1965 in the United Kingdom, on EMI's Parlophone label, accompanied by the non-album double A-side single 'Day Tripper' 'We Can Work It Out'."
+
+},{
+
+"_id": {
+
+"$oid": "6331e7388027c38f9faabcd0"
+
+},
+
+"Title": "Yellow Submarine",
+
+"Artist": "The Beattles",
+
+"Year": 1968,
+
+"ImageURL": "https://upload.wikimedia.org/wikipedia/en/a/ac/TheBeatles-YellowSubmarinealbumcover.jpg",
+
+"Description": "Yellow Submarine is the tenth studio album by English rock band the Beatles, released on 13 January 1969 in the United States and on 17 January 1969 in the United Kingdom. ",
+
+"Tracks": [
+
+{
+
+"_id": {
+
+"$oid": "63372d434b5b453b067266cf"
+
+},
+
+"TrackTitle": "Yellow Sub",
+
+"VideoURL": "https://www.youtube.com/watch?v=m2uTFF_3MaA"
+
+},
+
+{
+
+"_id": {
+
+"$oid": "63374429177f0ab0572893b3"
+
+},
+
+"TrackTitle": "Yellow",
+
+"VideoURL": "https://www.youtube.com/watch?v=m2uTFF_3MaA"
+
+},
+
+{
+
+"_id": {
+
+"$oid": "63374693a32956f372ae2209"
+
+},
+
+"TrackTitle": "Yello3",
+
+"VideoURL": "https://www.youtube.com/watch?v=m2uTFF_3MaA"
+
+}
+
+]
+
+}]

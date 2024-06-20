@@ -1,0 +1,2 @@
+Part 1 (Semaphore): https://www.loom.com/share/472e479fce174f67aa47102793e7355b?sid=ab1f6664-84e3-4e81-9f83-12371584f368
+Part 2 (Mutex): https://www.loom.com/share/985276d5fd134ea38185a6d94719f2e9?sid=b6035222-f287-409a-aa86-3d20986c6a4d
