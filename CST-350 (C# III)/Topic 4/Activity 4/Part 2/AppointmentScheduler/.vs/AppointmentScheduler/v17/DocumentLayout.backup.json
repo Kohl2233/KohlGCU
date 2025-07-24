@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\views\\appointments\\showappointmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:views\\appointments\\showappointmentdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:models\\appointmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|c:\\users\\kohlj\\source\\repos\\appointmentscheduler\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3653FF92-E1D7-48AA-A714-23C38F1420CE}|AppointmentScheduler.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:29:01.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ShowAppointmentDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Appointments\\ShowAppointmentDetails.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\ShowAppointmentDetails.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Appointments\\ShowAppointmentDetails.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\ShowAppointmentDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:49:34.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:29:25.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:28:52.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:28:51.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Views\\Appointments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-02T23:27:33.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:26:15.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppointmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Models\\AppointmentModel.cs",
+              "RelativeDocumentMoniker": "Models\\AppointmentModel.cs",
+              "ToolTip": "C:\\Users\\kohlj\\source\\repos\\AppointmentScheduler\\Models\\AppointmentModel.cs",
+              "RelativeToolTip": "Models\\AppointmentModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T23:19:14.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

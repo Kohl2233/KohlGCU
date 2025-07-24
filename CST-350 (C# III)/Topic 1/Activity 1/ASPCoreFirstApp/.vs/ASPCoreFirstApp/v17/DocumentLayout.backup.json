@@ -1,0 +1,168 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\products\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\products\\message.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\home\\recipes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\home\\recipes.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\home\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\home\\aboutme.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 1\\activity 1\\aspcorefirstapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D33E061B-8F4D-4253-BD12-34DD042CBE93}|ASPCoreFirstApp.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Message.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Products\\Message.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Message.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Products\\Message.cshtml",
+              "RelativeToolTip": "Views\\Products\\Message.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:57:03.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "Views\\Products\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:47:53.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T21:46:28.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Recipes.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\Recipes.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Recipes.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\Recipes.cshtml",
+              "RelativeToolTip": "Views\\Home\\Recipes.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:03:14.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T21:00:45.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AboutMe.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\AboutMe.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\AboutMe.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\AboutMe.cshtml",
+              "RelativeToolTip": "Views\\Home\\AboutMe.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T20:55:17.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T20:50:15.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-09T20:35:36.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 1\\Activity 1\\ASPCoreFirstApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T20:30:21.683Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

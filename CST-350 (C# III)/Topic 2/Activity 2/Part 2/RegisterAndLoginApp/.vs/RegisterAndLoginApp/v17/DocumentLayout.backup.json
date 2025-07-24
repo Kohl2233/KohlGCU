@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:views\\user\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\views\\user\\membersonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:views\\user\\membersonly.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\models\\usercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:models\\usercollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\filters\\sessioncheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:filters\\sessioncheckfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\views\\user\\processlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:views\\user\\processlogin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\views\\user\\loginfailure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:views\\user\\loginfailure.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|c:\\users\\kohlj\\onedrive\\desktop\\grand canyon university\\cst-350 (c# iii)\\topic 2\\activity 2\\registerandloginapp\\models\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA68A9B-0300-4FD7-94B6-14CD3FD155CC}|RegisterAndLoginApp.csproj|solutionrelative:models\\iusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Register.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\Register.cshtml",
+              "RelativeToolTip": "Views\\User\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T02:28:48.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MembersOnly.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\MembersOnly.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\MembersOnly.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\MembersOnly.cshtml",
+              "RelativeToolTip": "Views\\User\\MembersOnly.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T01:58:09.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginFailure.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\LoginFailure.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\LoginFailure.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\LoginFailure.cshtml",
+              "RelativeToolTip": "Views\\User\\LoginFailure.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T00:49:51.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProcessLogin.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\ProcessLogin.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\ProcessLogin.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\ProcessLogin.cshtml",
+              "RelativeToolTip": "Views\\User\\ProcessLogin.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-14T00:39:21.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserCollection.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\UserCollection.cs",
+              "RelativeDocumentMoniker": "Models\\UserCollection.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\UserCollection.cs",
+              "RelativeToolTip": "Models\\UserCollection.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowA0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:53:59.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\IUserManager.cs",
+              "RelativeDocumentMoniker": "Models\\IUserManager.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\IUserManager.cs",
+              "RelativeToolTip": "Models\\IUserManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T01:40:14.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-12T01:35:38.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-11T23:51:28.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:48:22.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:43:55.191Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:08:09.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwCIAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:01:02.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SessionCheckFilter.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Filters\\SessionCheckFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\SessionCheckFilter.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Filters\\SessionCheckFilter.cs",
+              "RelativeToolTip": "Filters\\SessionCheckFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:08:32.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\kohlj\\OneDrive\\Desktop\\Grand Canyon University\\CST-350 (C# III)\\Topic 2\\Activity 2\\RegisterAndLoginApp\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T23:46:26.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

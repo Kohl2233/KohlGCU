@@ -1,0 +1,23 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+<h1>Important Message</h1>
+<p>Thank you for visiting our site. We hope you enjoy your stay! The purpose of this page is to demonstrate how a view and a controller interact.</p>
+
+@{
+    if (ViewData["Name"] != null)
+    {
+        <h3>Hello, @ViewData["Name"]!</h3>
+
+        if (ViewData["Personality"] != null && Convert.ToInt32(ViewData["Personality"]) > 5)
+        {
+            <h3>You are a friendly person</h3>
+
+        } 
+        else if (ViewData["Personality"] != null && Convert.ToInt32(ViewData["Personality"]) < 5)
+        {
+            <h3>People simply tolerate you. :)</h3>    
+        }
+    }
+}
